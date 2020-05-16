@@ -8,10 +8,10 @@ OFFLINE WEB APP
 
 ## Members
 
-CRUZ
-LINDAO
-PITA
-TORRES
+- CRUZ OMAR
+- LINDAO MARIELA
+- PITA FANNY
+- TORRES DANNY
 
 
 ## Problem statement
