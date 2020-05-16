@@ -11,7 +11,7 @@
 
 - Each group must work in a defined branch. Aforementioned is to avoid pulling unnecessary data from other working directories.
 - The `master` branch will contain your final version by the deadline. It will probably be protected to avoid pushing changes to the `master` branch.
-- Before the deadline, you will merge your `group[number]`branch to the `master` branch.
+- Before the deadline, you will merge your `branch_group[number]`branch to the `master` branch.
 - Use the issue section on Github to discuss your project.
 
 
