@@ -8,9 +8,9 @@
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
+ - Andrés Macancela
+ - Carlos Panta
+ - Luis López
  - [NAME4]
  - [NAME5]
 
