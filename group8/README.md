@@ -1,6 +1,6 @@
 # GROUP [NUMBER]
 
-[Project title]
+Aplicación de Control de Reinserción laboral por emergencia Covid-19
 
 [Project Brief]
 
