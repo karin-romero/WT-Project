@@ -1,6 +1,6 @@
-# GROUP [NUMBER]
+# GROUP 6
 
-[Project title]
+OFFLINE WEB APP
 
 [Project Brief]
 
@@ -8,11 +8,10 @@
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
- - [NAME4]
- - [NAME5]
+CRUZ
+LINDAO
+PITA
+TORRES
 
 
 ## Problem statement
