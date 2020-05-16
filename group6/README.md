@@ -1,6 +1,6 @@
-# GROUP [NUMBER]
+# GROUP [6]
 
-[Project title]
+Offline Web App XXXXX
 
 [Project Brief]
 
@@ -8,11 +8,11 @@
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
- - [NAME4]
- - [NAME5]
+ - Cruz Omar
+ - Lindao Mariela
+ - Pita Fanny
+ - Torres Danny
+ 
 
 
 ## Problem statement
