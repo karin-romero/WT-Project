@@ -1,4 +1,4 @@
-# GROUP [NUMBER]
+# GROUP [NUMBER 7]
 
 [Project title]
 
@@ -8,11 +8,11 @@
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
- - [NAME4]
- - [NAME5]
+ - [Martha Rodriguez]
+ - [Karla Zoller]
+ - [Isabel Naranjo]
+ - [Alvaro Rivera]
+ - [Diogenes Velasco]
 
 
 ## Problem statement
