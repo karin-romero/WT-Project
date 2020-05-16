@@ -1,6 +1,6 @@
-# GROUP [NUMBER]
+# GROUP 8
 
-Aplicación de Control de Reinserción laboral por emergencia Covid-19
+## Minimizar la segunda ola de contagio del Covid 19 luego de la reinsersión laboral en las Empresas
 
 [Project Brief]
 
