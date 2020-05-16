@@ -9,7 +9,7 @@
 ## Members
 
  - Lucy Caregua Alvario
- - Diego Faría]
+ - Diego Faría
  - Jesús Jácome​
  - Juan Carlos Sellán
 
