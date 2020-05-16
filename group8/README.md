@@ -4,15 +4,15 @@
 
 [Project Brief]
 
-[Link to the presentation]
+[Link to the presentation] 
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
- - [NAME4]
- - [NAME5]
+ - Mishell Ortiz.
+ - Isabel Chilan.
+ - Alexandra Santana.
+ - Karen Chiquito.
+ - Guillermo Sancan.
 
 
 ## Problem statement
