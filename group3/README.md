@@ -9,7 +9,7 @@
 ## Members
 
  - Christian Apolinario Brunis
- - [NAME2]
+ - Cristhian Florencia Saltos
  - [NAME3]
  - [NAME4]
  - [NAME5]
