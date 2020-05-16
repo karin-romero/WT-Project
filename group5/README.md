@@ -8,10 +8,10 @@
 
 ## Members
 
- - [Lucy Caregua Alvario]
- - [Diego Faría]
- - [Jesús Jácome​]
- - [Juan Carlos Sellán]
+ - Lucy Caregua Alvario
+ - Diego Faría]
+ - Jesús Jácome​
+ - Juan Carlos Sellán
 
 
 
