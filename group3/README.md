@@ -1,4 +1,4 @@
-# GROUP [NUMBER]
+# GROUP 3
 
 [Project title]
 
@@ -8,7 +8,7 @@
 
 ## Members
 
- - [NAME1]
+ - Christian Apolinario Brunis
  - [NAME2]
  - [NAME3]
  - [NAME4]
