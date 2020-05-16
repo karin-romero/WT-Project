@@ -1,4 +1,4 @@
-# GROUP [NUMBER]
+# GROUP [5]
 
 [Project title]
 
@@ -8,11 +8,11 @@
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
- - [NAME4]
- - [NAME5]
+ - [Lucy Caregua]
+ - [Diego Faría]
+ - [Jesús Jácome​]
+ - [Juan Carlos Sellán]
+
 
 
 ## Problem statement
