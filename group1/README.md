@@ -67,7 +67,9 @@ Resumen de partes del sistema:
 
 ## Proof of concept (DEMO)
 
-[Screenshopt of the demos + brief description ]
+[Debido al problema planteado, se ha recurrido a realizar una app que nos permite recomendar actividades de cualquier índole basados en el circulo social que rodea a un usuario, por lo general estos interactúan en la actualidad con las redes sociales y sus búsquedas en la web.
+La app realizara recomendaciones de acuerdo con la hora y el estado de ánimo publicados en las diferentes redes sociales, puede ser ingresado al inicio del día, pero puede ser actualizado a lo largo del día de acuerdo al cambio que realice el usuario en sus estados, para recomendar las mejores sugerencias. Adicional, permitirá buscar en la cache de su dispositivo o equipo que use con mayor frecuencia.
+]
 
 
 ## References
