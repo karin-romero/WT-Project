@@ -16,7 +16,7 @@ OFFLINE WEB APP
 
 ## Problem statement
 
-[add here the problem definition... you can include images to illustrate]
+OFF LINE actulizar
 
 
 ## Proposal
