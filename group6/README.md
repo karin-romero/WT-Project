@@ -63,6 +63,6 @@ https://rolandocaldas.com/html5/indexeddb-tu-base-de-datos-local-en-html5  - Ind
 https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  IndexedDB: Agregando objetos al almacén
 https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
 
-******** Seguridad en un voto electrónico
+******** Seguridad en un voto electrónico***************
 https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
 https://rua.ua.es/dspace/bitstream/10045/94728/1/Sistema_de_votacion_electronica_basado_en_criptogr_Fajardo_Juan_Antonio_Jose.pdf
