@@ -1,4 +1,4 @@
-ï»¿# GROUP 6
+# GROUP 6
 
 OFFLINE WEB APP
 
@@ -38,13 +38,13 @@ https://github.com/mjzone/offline
 https://github.com/GoogleChromeLabs/airhorn
 https://xitrus.es/blog/97/Crea_aplicaciones_web_Offline_con_Cache_de_HTML5
 https://www.oas.org/es/sap/deco/seminarios/peru/pre/Hector_Hernandez.pdf
-https://www.youtube.com/watch?v=H7YD6W-fGfc - CÃ³mo funciona el Voto ElectrÃ³nico No Presencial
-Aspectos tecnolÃ³gicos del voto electrÃ³nico
+https://www.youtube.com/watch?v=H7YD6W-fGfc - Cómo funciona el Voto Electrónico No Presencial
+Aspectos tecnológicos del voto electrónico
 December 2007
-Publisher: Oficina Nacional de Procesos Electorales (ONPE) PerÃºEditor: ONPEISBN: 978-9972-695-33-9
+Publisher: Oficina Nacional de Procesos Electorales (ONPE) PerúEditor: ONPEISBN: 978-9972-695-33-9
 Panizo Alonso
 Luis Panizo Alonso
-https://www.youtube.com/watch?v=dgupZHdsBUo - El voto electrÃ³nico por internet
+https://www.youtube.com/watch?v=dgupZHdsBUo - El voto electrónico por internet
 
 
 ******** Conexio offline *********
@@ -60,5 +60,9 @@ https://www.html5rocks.com/es/features/storage
 https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es
 https://rolandocaldas.com/html5/localstorage-en-html5 --- localStorage en HTML5. El fin de las cookies
 https://rolandocaldas.com/html5/indexeddb-tu-base-de-datos-local-en-html5  - IndexedDB: Tu base de datos local en HTML5
-https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  IndexedDB: Agregando objetos al almacÃ©n
+https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  IndexedDB: Agregando objetos al almacén
 https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
+
+******** Seguridad en un voto electrónico
+https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
+https://rua.ua.es/dspace/bitstream/10045/94728/1/Sistema_de_votacion_electronica_basado_en_criptogr_Fajardo_Juan_Antonio_Jose.pdf
