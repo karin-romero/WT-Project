@@ -46,8 +46,11 @@ Panizo Alonso
 Luis Panizo Alonso
 https://www.youtube.com/watch?v=dgupZHdsBUo - El voto electrónico por internet
 
+
 ******** Conexio offline *********
+
 https://www.youtube.com/watch?v=vd_5RwnfX4M - Prueba de conexion en offline con server worker
+https://www.youtube.com/watch?v=IJLlCNyZSD4
 
 
 
