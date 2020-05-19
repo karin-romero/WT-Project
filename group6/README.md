@@ -62,6 +62,10 @@ https://rolandocaldas.com/html5/localstorage-en-html5 --- localStorage en HTML5.
 https://rolandocaldas.com/html5/indexeddb-tu-base-de-datos-local-en-html5  - IndexedDB: Tu base de datos local en HTML5
 https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  IndexedDB: Agregando objetos al almacén
 https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
+http://www.cantabriatic.com/html5-metodos-almacenamiento-cliente/ - Html5: Metodos de almacenamiento en cliente
+https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es - Descripción general del almacenamiento web
+
+
 
 ******** Seguridad en un voto electrónico***************
 
