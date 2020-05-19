@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=dgupZHdsBUo - El voto electrónico por internet
 
 
 ******** IndexDB referencia************
-
+https://www.html5rocks.com/es/features/storage
 https://rolandocaldas.com/html5/localstorage-en-html5 --- localStorage en HTML5. El fin de las cookies
 https://rolandocaldas.com/html5/indexeddb-tu-base-de-datos-local-en-html5  - IndexedDB: Tu base de datos local en HTML5
 https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  IndexedDB: Agregando objetos al almacén
