@@ -46,3 +46,12 @@ Publisher: Oficina Nacional de Procesos Electorales (ONPE) PerúEditor: ONPEISBN
 Panizo Alonso
 Luis Panizo Alonso
 https://www.youtube.com/watch?v=dgupZHdsBUo - El voto electrónico por internet
+
+
+******** IndexDB referencia************
+https://www.html5rocks.com/es/features/storage
+https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es
+https://rolandocaldas.com/html5/localstorage-en-html5 --- localStorage en HTML5. El fin de las cookies
+https://rolandocaldas.com/html5/indexeddb-tu-base-de-datos-local-en-html5  - IndexedDB: Tu base de datos local en HTML5
+https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  IndexedDB: Agregando objetos al almacén
+https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
