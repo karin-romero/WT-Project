@@ -53,6 +53,11 @@ https://www.youtube.com/watch?v=vd_5RwnfX4M - Prueba de conexion en offline con 
 https://www.youtube.com/watch?v=IJLlCNyZSD4
 
 
+*** YDN DB ******
+http://dev.yathit.com/ydn-db/downloads.html
+https://github.com/yathit/ydn-db
+Clase ydn.db.Storage - http://dev.yathit.com/api/ydn/db/storage.html
+ 
 
 
 ******** IndexDB referencia************
