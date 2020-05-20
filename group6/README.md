@@ -57,6 +57,7 @@ https://www.youtube.com/watch?v=IJLlCNyZSD4
 
 ******** IndexDB referencia************
 https://www.html5rocks.com/es/features/storage
+https://flaviocopes.com/indexeddb/- Dive into IndexedDB
 https://developers.google.com/web/tools/chrome-devtools/storage/indexeddb - Ver y cambiar datos indexados de DB con Chrome DevTools
 https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es
 https://rolandocaldas.com/html5/localstorage-en-html5 --- localStorage en HTML5. El fin de las cookies
@@ -72,3 +73,7 @@ https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?h
 
 https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
 https://rua.ua.es/dspace/bitstream/10045/94728/1/Sistema_de_votacion_electronica_basado_en_criptogr_Fajardo_Juan_Antonio_Jose.pdf
+https://www.tdx.cat/bitstream/handle/10803/7043/01VMmr01de01.pdf?sequence=1&isAllowed=y  - SEGURIDAD EN LOS PROCESOS DE VOTO
+ELECTRÓNICO REMOTO: REGISTRO, VOTACIÓN, CONSOLIDACIÓN DE RESULTADOS Y AUDITORIA.
+
+https://www.xataka.com/legislacion-y-derechos/microsoft-crea-electionguard-sistema-voto-electronico-indiferente-al-hackeo - Microsoft crea ElectionGuard
