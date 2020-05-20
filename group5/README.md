@@ -13,7 +13,7 @@ portales de empleo mediante la tecnica de Web Scrapping implementando DJango, SQ
 
  - Lucy Caregua Alvario
  - Diego Faría
- - Jesús Jácome​
+ - Jesús Jácome
  - Juan Carlos Sellán
  - Andres Macancela
 
@@ -28,7 +28,8 @@ publicados en varios portales conocidos a nivel nacional,  ordenados por fechas,
 
 ## Proposal
 
-[Solution strategy and seleccion of web technology]
+![image](https://user-images.githubusercontent.com/65081413/82499073-a3241e00-9ab6-11ea-9163-dd9697081936.png)
+
 
 [you can add any subseccion]
 
