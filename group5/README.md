@@ -1,10 +1,10 @@
 # GROUP [5]
 
-TITULO:
-Prototipo de aplicación web para recopilar ofertas de trabajo de diferentes portales de empleo
 
-RESUMEN:
-Desarrollo de prototipo de aplicación web para recopilar ofertas de trabajo publicados en diferentes
+## Prototipo de aplicación web para recopilar ofertas de trabajo de diferentes portales de empleo
+
+### BRIEF
+> Desarrollo de prototipo de aplicación web para recopilar ofertas de trabajo publicados en diferentes
 portales de empleo mediante la tecnica de Web Scrapping implementando DJango, SQLite y la plataforma de Heroku.
 
 [Link to the presentation]
