@@ -1,11 +1,11 @@
 # GROUP [5]
 
 TITULO:
-Aplicación web para recopilar ofertas de trabajo de diferentes portales de empleo
+Prototipo de aplicación web para recopilar ofertas de trabajo de diferentes portales de empleo
 
 RESUMEN:
-Aplicación web para recopilar ofertas de trabajo en el area de sistemas publicados en diferentes
-portales de empleo mediante la aplicacion DJango y Web Scrapping.
+Desarrollo de prototipo de aplicación web para recopilar ofertas de trabajo publicados en diferentes
+portales de empleo mediante la tecnica de Web Scrapping implementando DJango, SQLite y la plataforma de Heroku.
 
 [Link to the presentation]
 
