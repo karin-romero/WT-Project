@@ -1,8 +1,11 @@
 # GROUP [5]
 
-[Project title]
+TITULO:
+Aplicación web para recopilar ofertas de trabajo de diferentes portales de empleo
 
-[Project Brief]
+RESUMEN:
+Aplicación web para recopilar ofertas de trabajo en el area de sistemas publicados en diferentes
+portales de empleo mediante la aplicacion DJango y Web Scrapping.
 
 [Link to the presentation]
 
