@@ -30,15 +30,15 @@ publicados en varios portales conocidos a nivel nacional,  ordenados por fechas,
 
 ![image](https://user-images.githubusercontent.com/65081413/82499073-a3241e00-9ab6-11ea-9163-dd9697081936.png)
 
-### DJango
+#### DJango
 
-### SQlite
+#### SQlite
 
-### Heroku
+#### Heroku
 
-### HTML 5
+#### HTML 5
 
-### Tecnica WEB Scraping
+#### Tecnica WEB Scraping
 
 [you can add any subseccion]
 
