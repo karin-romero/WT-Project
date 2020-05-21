@@ -18,7 +18,7 @@ OFFLINE WEB APP
 
 La presente propuesta se realiza en base a la problematica que existe al momento de una consulta popular en una universidad de la Ciudad de Guayaquil, en virtud a que tradicionalmente utilizan un sistema de votación basado en papel, el estudiante subraya su opción de voto, dobla y deposita la papeleta en una urna y ahí termina su función. El estudiante no tiene forma de verificar que en el escrutinio su voto está correctamente. Por lo tanto, los estudiantes tienen que confiar en la autoridad de la elección y administradores de sistemas que actuarán honestamente cuando se publican los resultados de la elección.
 
-Por tal motivo en un voto electónico para consulta popular se proporcionaría al estudiante un medio de votación que no le permitiría asistir en sitio, y adicional la ventaja de que en el caso de no tener internet estable, poder guardar voto fuera de línea, sin embargo debe considerarse como primordial la seguridad para de esta manera dar la privacidad, confiabilidad y buena percepción del voto a los estudiantes.
+Por tal motivo en un voto electónico para consulta popular se proporcionaría al estudiante un medio de votación que no le permitiría asistir en sitio, y adicional la ventaja de que en el caso de no tener internet estable, poder guardar voto fuera de línea, sin embargo debe considerarse como primordial la seguridad para de esta manera dar la privacidad, confiabilidad y buena percepción del voto electrónico a los estudiantes.
 
 
 ## Proposal
