@@ -16,20 +16,24 @@ OFFLINE WEB APP
 
 ## Problem statement
 
-OFF LINE actulizar
+La presente propuesta se realiza en base a la problematica que existe al momento de una consulta popular en una universidad de la Ciudad de Guayaquil, en virtud a que tradicionalmente utilizan un sistema de votación basado en papel, el estudiante subraya su opción de voto, dobla y deposita la papeleta en una urna y ahí termina su función. El estudiante no tiene forma de verificar que en el escrutinio su voto está correctamente. Por lo tanto, los estudiantes tienen que confiar en la autoridad de la elección y administradores de sistemas que actuarán honestamente cuando se publican los resultados de la elección.
+
+Por tal motivo en un voto electónico para consulta popular se proporcionaría al estudiante un medio de votación que no le permitiría asistir en sitio, y adicional la ventaja de que en el caso de no tener internet estable, poder guardar voto fuera de línea, sin embargo debe considerarse como primordial la seguridad para de esta manera dar la privacidad, confiabilidad y buena percepción del voto a los estudiantes.
 
 
 ## Proposal
 
 ## Resumen
 
-Nuestra propuesta va enfocado al voto electrónico de una consulta popular realizado por estudiantes de una universidad de la Ciudad de Guayaquil, por lo que se desea implementar una solución tecnológica, segura, accesible y confiable.
+Nuestra propuesta va enfocado al voto electrónico de una consulta popular realizado por estudiantes de una universidad de la Ciudad de Guayaquil, por lo que se desea implementar un piloto como solución tecnológica, segura, accesible y confiable.
 
-La página del voto electrónico se mostrará como pantalla principal, el ingreso del número de cédula, contraseña (en la contraseña se va a utilizar un cifrado) y número de PIN (éste código llegará al estudiante como parte de la activación de su participación para el voto). 
+La empresa ABC.SA decide proponer una aplicación web offline sencilla y segura que permita capturar los datos del voto electrónico y una vez que se finalice la jornada electoral estos sean sincronizados con las bases de datos
 
-Una vez que ingrese se mostrará los datos completos del estudiante tales como nombres, apellidos, edad, dirección, seguido se mostrará la pregunta de la consulta popular la misma que tendrá tres opciones, SI, NO y  NULO, una vez que el estudiante de clic en votar, existirá un proceso el cual verificará si existe una conexión a la red de datos de internet y se registrará en la base de datos.
+La página del voto electrónico mostrará como pantalla principal, el ingreso a la aplicación Web, ingresando el número de cédula, contraseña (en la contraseña se va a utilizar un cifrado) y número de PIN (éste código llegará al estudiante como parte de la activación de su participación para el voto). 
 
-En el caso de que no exista una conexión de red, es decir está offline esta información se almacenará en una base interna y una vez que se reestablezca la conexión mediante un proceso subirá a la base de datos principal.
+Una vez que ingrese se mostrará los datos completos del estudiante tales como nombres, apellidos, edad, dirección, seguido se mostrará la pregunta de la consulta popular la misma que tendrá tres opciones, SI, NO, NULO y BLANCO, una vez que el estudiante de clic en votar, existirá un proceso el cual verificará si existe una conexión a la red de datos de internet y se registrará en la base de datos.
+
+En el caso de que no exista una conexión de red, es decir está OFFLINE esta información se almacenará en una base interna y una vez que se reestablezca la conexión mediante un proceso subirá a la base de datos principal.
 
 Finalmente el Administrador tendrá la opción de Reporte donde podrá obtener los resultados de la consulta popular.
 
@@ -37,7 +41,7 @@ También se contará como política de Respaldo de la base de datos, que el día de 
 
 ### Ventajas
 
-1.	Accesibilidad.- ejercer el derecho a votar desde cualquier lugar (casa, trabajo, universidad, etc.). Así como también favorece el voto a estudiantes en países extranjeros.
+1.	Accesibilidad.- ejercer el derecho a votar desde cualquier lugar (casa, trabajo, universidad, etc.), favorece el voto a estudiantes en países extranjeros y para votantes con discapacidades físicas.
 2.	Eficiencia.- Existe ahorro en recursos financieros, no es necesario imprimir papeletas de la elección y los certificados, es decir reduce el consumo de materias primas en papelería y urnas de cartón.
 3.	Fiabilidad.- Facilitan el proceso electoral, ya que ofrecen datos fiables. 
 4.	Precisión.- publicación de resultados rápidos en cuanto a captación de votos.
