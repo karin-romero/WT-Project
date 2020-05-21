@@ -45,14 +45,11 @@ También se contará como política de Respaldo de la base de datos, que el día de 
 6.	La carga de trabajo de los funcionarios electorales es liviana, reducen los errores humanos.
 7.	El estudiante puede verificar su elección en cualquier momento. 
 
-### Desventajas 
+### Desventajas
 
 1.	Genera menor cantidad de empleos. 
 2.	El hardware y software necesarios para su implementación son elevados, considerando mantenimiento, licencias, soportes y capacitación. 
 3.	Se requiere estar alineados a reformas legislativas universitarias. 
-
-
-
 
 ## Proof of concept (DEMO)
 
