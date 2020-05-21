@@ -21,7 +21,7 @@ OFF LINE actulizar
 
 ## Proposal
 
-# Resumen
+## Resumen
 
 Nuestra propuesta va enfocado al voto electrónico de una consulta popular realizado por estudiantes de una universidad de la Ciudad de Guayaquil, por lo que se desea implementar una solución tecnológica, segura, accesible y confiable.
 
@@ -35,7 +35,7 @@ Finalmente el Administrador tendrá la opción de Reporte donde podrá obtener los 
 
 También se contará como política de Respaldo de la base de datos, que el día de la consulta popular, almacenar dicho respaldo con frecuencia cada media hora en otro servidor distinto que estará ubicado en un centro de datos cercana a la universidad, para garantizar que los respaldos puedan ser usados y estén disponibles en caso desastres.
 
-# Ventajas
+### Ventajas
 
 1.	Accesibilidad.- ejercer el derecho a votar desde cualquier lugar (casa, trabajo, universidad, etc.). Así como también favorece el voto a estudiantes en países extranjeros.
 2.	Eficiencia.- Existe ahorro en recursos financieros, no es necesario imprimir papeletas de la elección y los certificados, es decir reduce el consumo de materias primas en papelería y urnas de cartón.
@@ -45,7 +45,7 @@ También se contará como política de Respaldo de la base de datos, que el día de 
 6.	La carga de trabajo de los funcionarios electorales es liviana, reducen los errores humanos.
 7.	El estudiante puede verificar su elección en cualquier momento. 
 
-# Desventajas 
+### Desventajas 
 
 1.	Genera menor cantidad de empleos. 
 2.	El hardware y software necesarios para su implementación son elevados, considerando mantenimiento, licencias, soportes y capacitación. 
