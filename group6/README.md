@@ -21,9 +21,37 @@ OFF LINE actulizar
 
 ## Proposal
 
-[Solution strategy and seleccion of web technology]
+# Resumen
 
-[you can add any subseccion]
+Nuestra propuesta va enfocado al voto electrónico de una consulta popular realizado por estudiantes de una universidad de la Ciudad de Guayaquil, por lo que se desea implementar una solución tecnológica, segura, accesible y confiable.
+
+La página del voto electrónico se mostrará como pantalla principal, el ingreso del número de cédula, contraseña (en la contraseña se va a utilizar un cifrado) y número de PIN (éste código llegará al estudiante como parte de la activación de su participación para el voto). 
+
+Una vez que ingrese se mostrará los datos completos del estudiante tales como nombres, apellidos, edad, dirección, seguido se mostrará la pregunta de la consulta popular la misma que tendrá tres opciones, SI, NO y  NULO, una vez que el estudiante de clic en votar, existirá un proceso el cual verificará si existe una conexión a la red de datos de internet y se registrará en la base de datos.
+
+En el caso de que no exista una conexión de red, es decir está offline esta información se almacenará en una base interna y una vez que se reestablezca la conexión mediante un proceso subirá a la base de datos principal.
+
+Finalmente el Administrador tendrá la opción de Reporte donde podrá obtener los resultados de la consulta popular.
+
+También se contará como política de Respaldo de la base de datos, que el día de la consulta popular, almacenar dicho respaldo con frecuencia cada media hora en otro servidor distinto que estará ubicado en un centro de datos cercana a la universidad, para garantizar que los respaldos puedan ser usados y estén disponibles en caso desastres.
+
+# Ventajas
+
+1.	Accesibilidad.- ejercer el derecho a votar desde cualquier lugar (casa, trabajo, universidad, etc.). Así como también favorece el voto a estudiantes en países extranjeros.
+2.	Eficiencia.- Existe ahorro en recursos financieros, no es necesario imprimir papeletas de la elección y los certificados, es decir reduce el consumo de materias primas en papelería y urnas de cartón.
+3.	Fiabilidad.- Facilitan el proceso electoral, ya que ofrecen datos fiables. 
+4.	Precisión.- publicación de resultados rápidos en cuanto a captación de votos.
+5.	Se implementa menor logística por parte de los miembros de la fuerza pública. 
+6.	La carga de trabajo de los funcionarios electorales es liviana, reducen los errores humanos.
+7.	El estudiante puede verificar su elección en cualquier momento. 
+
+# Desventajas 
+
+1.	Genera menor cantidad de empleos. 
+2.	El hardware y software necesarios para su implementación son elevados, considerando mantenimiento, licencias, soportes y capacitación. 
+3.	Se requiere estar alineados a reformas legislativas universitarias. 
+
+
 
 
 ## Proof of concept (DEMO)
