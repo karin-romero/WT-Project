@@ -105,6 +105,7 @@ https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  Indexe
 https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
 http://www.cantabriatic.com/html5-metodos-almacenamiento-cliente/ - Html5: Metodos de almacenamiento en cliente
 https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es - Descripción general del almacenamiento web
+https://turtle-db.github.io/about#in-browser-storage - In-Browser Storage 
 
 
 
@@ -114,13 +115,11 @@ https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
 https://rua.ua.es/dspace/bitstream/10045/94728/1/Sistema_de_votacion_electronica_basado_en_criptogr_Fajardo_Juan_Antonio_Jose.pdf
 https://www.tdx.cat/bitstream/handle/10803/7043/01VMmr01de01.pdf?sequence=1&isAllowed=y  - SEGURIDAD EN LOS PROCESOS DE VOTO
 ELECTRÓNICO REMOTO: REGISTRO, VOTACIÓN, CONSOLIDACIÓN DE RESULTADOS Y AUDITORIA.
-
 https://www.xataka.com/legislacion-y-derechos/microsoft-crea-electionguard-sistema-voto-electronico-indiferente-al-hackeo - Microsoft crea ElectionGuard
 
 ******** Cifrar y descifrar cadenas en Visual Basic **********
-
 https://docs.microsoft.com/es-es/dotnet/visual-basic/programming-guide/language-features/strings/walkthrough-encrypting-and-decrypting-strings
 
-******** Encriptar y guardar datos en base de datos con Visual Basic .NET ****************
 
+******** Encriptar y guardar datos en base de datos con Visual Basic .NET ****************
 https://www.youtube.com/watch?v=Z54trhnO1Wc
