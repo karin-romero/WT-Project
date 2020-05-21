@@ -47,10 +47,11 @@ Luis Panizo Alonso
 https://www.youtube.com/watch?v=dgupZHdsBUo - El voto electrónico por internet
 
 
-******** Conexio offline *********
+******** Conexion offline *********
 
 https://www.youtube.com/watch?v=vd_5RwnfX4M - Prueba de conexion en offline con server worker
 https://www.youtube.com/watch?v=IJLlCNyZSD4
+https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa?hl=es  -  Almacenamiento sin conexión para PWA
 
 
 *** YDN DB ******
