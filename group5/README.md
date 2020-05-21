@@ -47,6 +47,14 @@ Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, e
 #### HTML 5
 
 #### Tecnica WEB Scraping
+Web scraping, también conocido como extracción de datos web, es una técnica para la extracción dirigida y automatizada de información de sitios web, además puede ayudar a archivar datos y rastrear cambios en línea. El raspado web utiliza la automatización inteligente para recuperar cientos y millones de puntos de datos de la Internet, así mismo permite adquirir datos no tabulares o mal estructurados de sitios web y convertirlos a un formato estructurado y utilizable, como un archivo .csv u hoja de cálculo.
+
+Web scraping funciona mediante dos partes: un rastreador web y un raspador web. El rastreador conduce el raspador, como si fuera a mano, a través de Internet, donde extrae los datos solicitados. 
+**El rastreador**
+Un rastreador web es una inteligencia artificial que navega por Internet para indexar y buscar contenido siguiendo enlaces y explorando
+**El raspador**
+Un raspador web es una herramienta especializada diseñada para extraer datos de forma precisa y rápida de una página web. Los raspadores web varían ampliamente en diseño y complejidad, dependiendo del proyecto.
+
 
 [you can add any subseccion]
 
