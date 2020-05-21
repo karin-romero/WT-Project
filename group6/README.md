@@ -87,3 +87,9 @@ https://www.tdx.cat/bitstream/handle/10803/7043/01VMmr01de01.pdf?sequence=1&isAl
 ELECTRÓNICO REMOTO: REGISTRO, VOTACIÓN, CONSOLIDACIÓN DE RESULTADOS Y AUDITORIA.
 
 https://www.xataka.com/legislacion-y-derechos/microsoft-crea-electionguard-sistema-voto-electronico-indiferente-al-hackeo - Microsoft crea ElectionGuard
+
+******** Cifrar y descifrar cadenas en Visual Basic ***************
+https://docs.microsoft.com/es-es/dotnet/visual-basic/programming-guide/language-features/strings/walkthrough-encrypting-and-decrypting-strings
+
+******** Encriptar y guardar datos en base de datos con Visual Basic .NET ****************
+https://www.youtube.com/watch?v=Z54trhnO1Wc
