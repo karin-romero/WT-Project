@@ -51,11 +51,11 @@ Web scraping, también conocido como extracción de datos web, es una técnica p
 
 Web scraping funciona mediante dos partes: un rastreador web y un raspador web. El rastreador conduce el raspador, como si fuera a mano, a través de Internet, donde extrae los datos solicitados. 
 
-**El rastreador**
-Un rastreador web es una inteligencia artificial que navega por Internet para indexar y buscar contenido siguiendo enlaces y explorando
+**El rastreador:**
+Es una inteligencia artificial que navega por Internet para indexar y buscar contenido siguiendo enlaces y explorando
 
-**El raspador**
-Un raspador web es una herramienta especializada diseñada para extraer datos de forma precisa y rápida de una página web. Los raspadores web varían ampliamente en diseño y complejidad, dependiendo del proyecto.
+**El raspador:**
+Es una herramienta especializada diseñada para extraer datos de forma precisa y rápida de una página web. Los raspadores web varían ampliamente en diseño y complejidad, dependiendo del proyecto.
 
 
 [you can add any subseccion]
