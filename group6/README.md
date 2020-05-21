@@ -60,6 +60,7 @@ Clase ydn.db.Storage - http://dev.yathit.com/api/ydn/db/storage.html
 https://www.youtube.com/watch?v=9wkjRGe81cA - Curso de Google Cloud Platform (GCP) - Google cloud Storage
 https://www.youtube.com/watch?v=8ytpvQJNOU8 - Google Cloud Storage - Getting started with the JavaScript Sample Application
 https://docs.mongodb.com/manual/changeStreams/ -n https://docs.mongodb.com/manual/changeStreams/
+https://codeforgeek.com/sync-app-mysql-indexeddb/ - Synchronization between mysql and IndexedDB
  
 
 
