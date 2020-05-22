@@ -10,14 +10,13 @@
 
  - Christian Apolinario Brunis
  - Cristhian Florencia Saltos
- - [NAME3]
- - [NAME4]
- - [NAME5]
+ - Omar Morejon 
+ - Jajayra Castillo
 
 
 ## Problem statement
 
-[add here the problem definition... you can include images to illustrate]
+Actualmente en los centros comerciales se aglomera en los locales, provocando desorden, aglomeraciones y posible nuevos contagios de corana virus
 
 
 ## Proposal
