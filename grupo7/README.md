@@ -14,9 +14,9 @@
 
 > Tecnología usada
 
-| **BOOTSTRAP**| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| **BOOTSTRAP**| **JQUERY**| **JAVASCRIPT** |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://i.ibb.co/g4KJs0C/bootstrap-stack.png?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
+| [![BOOTSTRAP](https://i.ibb.co/61r1KS7/bootstrap2.png?v=3&s=200)](https://getbootstrap.com/)    | [![JQUERY](https://i.ibb.co/9ZfD4pC/jquery1.png?v=3&s=200)](https://jquery.com/) | [![JAVASCRIPT](https://i.ibb.co/r4PNyg9/JSCRIPT.png?v=3&s=200)](https://www.javascript.com/)  |
 | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
 
 
