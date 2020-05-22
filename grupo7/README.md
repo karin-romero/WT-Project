@@ -1,6 +1,7 @@
-# GROUP  7
+![](https://i.ibb.co/DVBH6vG/corona-4938929-1920-1.jpg)
 
-[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+# Activity: GIT Repositories
+
 
 [Project Brief]
 
