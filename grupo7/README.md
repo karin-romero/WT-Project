@@ -1,10 +1,10 @@
 [![INSERT YOUR GRAPHIC HERE](https://i.ibb.co/hccGk8B/12212.jpg)]()
 
 
-# PROYECTO 
-## SISTEMA DE GEOLOCALIZACIÓN DE DONANTES DE SANGRE
+# SISTEMA DE GEOLOCALIZACIÓN DE DONANTES DE SANGRE
 
-> Integrantes
+--
+## INTEGRANTES
  - Martha Rodriguez
  - Karla Zoller
  - Isabel Naranjo
@@ -12,7 +12,8 @@
  - Diogenes Velasco
 
 
-> Tecnología usada
+---
+## TECNOLOGÍA APLICADA
 
 | **BOOTSTRAP**| **JQUERY**| **JAVASCRIPT** |
 | :---: |:---:| :---:|
