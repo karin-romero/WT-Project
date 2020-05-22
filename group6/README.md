@@ -105,7 +105,7 @@ https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  Indexe
 https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
 http://www.cantabriatic.com/html5-metodos-almacenamiento-cliente/ - Html5: Metodos de almacenamiento en cliente
 https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es - Descripción general del almacenamiento web
-https://turtle-db.github.io/about#in-browser-storage - In-Browser Storage 
+**https://turtle-db.github.io/about#in-browser-storage - In-Browser Storage 
 
 
 
