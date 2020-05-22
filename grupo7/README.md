@@ -3,8 +3,7 @@
 
 # SISTEMA DE GEOLOCALIZACIÓN DE DONANTES DE SANGRE
 
---
-## INTEGRANTES
+> INTEGRANTES
  - Martha Rodriguez
  - Karla Zoller
  - Isabel Naranjo
