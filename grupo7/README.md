@@ -1,4 +1,5 @@
-[![](https://i.ibb.co/DVBH6vG/corona-4938929-1920-1.jpg]()
+[![INSERT YOUR GRAPHIC HERE](https://i.ibb.co/DVBH6vG/corona-4938929-1920-1.jpg)]()
+
 
 # PROYECTO 
 ## SISTEMA DE GEOLOCALIZACIÓN DE DONANTES DE SANGRE
