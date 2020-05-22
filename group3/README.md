@@ -16,7 +16,7 @@
 
 ## Problem statement
 
-Actualmente en los centros comerciales se aglomeran las personas en los locales de comida, provocando desorden y posibles nuevos contagios de coranavirus
+ - Actualmente en los centros comerciales se aglomeran las personas en los locales de comida, provocando desorden y posibles nuevos contagios de coranavirus.
 
 
 ## Proposal
