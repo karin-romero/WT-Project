@@ -27,6 +27,7 @@ Fast Orders
  - Toda la información mostrada se aloja en un servidor central, el cual envia las peticiones a los locales del patio de comida.
 	###Front - end
 	- HTML5 + JS + CSS3 + BOOTSTRAP 4 + (API Offline, workers, indexDB) 
+	
 	###Back - end
 	- PHP + MariaDB
 	
