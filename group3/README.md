@@ -1,6 +1,6 @@
 # GROUP 3
 
-[Project title]
+Fast Orders
 
 [Project Brief]
 
