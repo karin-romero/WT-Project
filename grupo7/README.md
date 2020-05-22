@@ -15,7 +15,7 @@
 ## TECNOLOGÍA APLICADA
 
 | **BOOTSTRAP**| **JQUERY**| **JAVASCRIPT** |
-| :---: |:---:| :---:|
+| :---: | :---: | :---: |
 | [![BOOTSTRAP](https://i.ibb.co/61r1KS7/bootstrap2.png?v=3&s=200)](https://getbootstrap.com/)    | [![JQUERY](https://i.ibb.co/9ZfD4pC/jquery1.png?v=3&s=200)](https://jquery.com/) | [![JAVASCRIPT](https://i.ibb.co/r4PNyg9/JSCRIPT.png?v=3&s=200)](https://www.javascript.com/)  |
 | Es un framework web y una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web. Contiene plantillas de diseño con tipografía, formularios, botones, cuadros, menús de navegación y otros elementos de diseño basado en HTML y CSS, así como extensiones de JavaScript adicionales.| Es una biblioteca multiplataforma de JavaScript, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.| Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico. |
 
