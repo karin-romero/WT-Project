@@ -25,7 +25,11 @@ Fast Orders
  - Luego podran escoger el local y visualizar su menú, posterior podran realizar su orden en la cual podran ingresar sus datos para la facturación y hacer el pago corespondiente.
  - Cuando el pedido se encuentre atendido se enviará desde el local comercial una notificacion a la conexion del sitio web de cada cliente para que se acerque a retirar su pedido.
  - Toda la información mostrada se aloja en un servidor central, el cual envia las peticiones a los locales del patio de comida.
-
+	###Front - end
+	- HTML5 + JS + CSS3 + BOOTSTRAP 4 + (API Offline, workers, indexDB) 
+	###Back - end
+	- PHP + MariaDB
+	
 
 ## Proof of concept (DEMO)
 
