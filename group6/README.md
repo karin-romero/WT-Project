@@ -65,6 +65,7 @@ https://rolandocaldas.com/html5/indexeddb-agregando-objetos-al-almacen -  Indexe
 https://rolandocaldas.com/html5/indexeddb-recuperando-los-datos-almacenados -  IndexedDB: Recuperando los datos almacenados 
 http://www.cantabriatic.com/html5-metodos-almacenamiento-cliente/ - Html5: Metodos de almacenamiento en cliente
 https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?hl=es - Descripción general del almacenamiento web
+https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/indexeddb/
 
 
 
@@ -72,3 +73,7 @@ https://developers.google.com/web/fundamentals/instant-and-offline/web-storage?h
 
 https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
 https://rua.ua.es/dspace/bitstream/10045/94728/1/Sistema_de_votacion_electronica_basado_en_criptogr_Fajardo_Juan_Antonio_Jose.pdf
+
+Cargar archivo JSON a PowerBI
+https://www.youtube.com/watch?v=XwR4YQWHDtQ
+https://www.npmjs.com/package/indexeddb-export-import
