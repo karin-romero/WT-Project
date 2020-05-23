@@ -21,7 +21,7 @@
 
 | **PHP**| **HTML**| **CSS** |
 | :---: | :---: | :---: |
-| [![PHP](https://i.ibb.co/37JwGtN/php-logo.png?v=3&s=200)](https://getbootstrap.com/)    | [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://jquery.com/) | [![CSS](https://i.ibb.co/v3C5syG/logo-CSS3.png?v=3&s=200)](https://www.javascript.com/)  |
+| [![PHP](https://i.ibb.co/37JwGtN/php-logo.png?v=3&s=200)](https://getbootstrap.com/)    | [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://jquery.com/) | [![CSS](https://i.ibb.co/p01CsrF/CSSS.jpg?v=3&s=200)](https://www.javascript.com/)  |
 | es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Posteriormente se aplicó al desarrollo web de contenido dinámico, dando un paso evolutivo en el concepto de aplicación en línea, por su carácter de servicio. | Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado. |
 
 > include terms/tags that can be searched
