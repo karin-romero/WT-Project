@@ -45,6 +45,8 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 ---
 ## TECNOLOGÍA APLICADA
 
+> FRONT-END
+
 | **BOOTSTRAP**| **JQUERY**| **JAVASCRIPT** |
 | :---: | :---: | :---: |
 | [![BOOTSTRAP](https://i.ibb.co/61r1KS7/bootstrap2.png?v=3&s=200)](https://getbootstrap.com/)    | [![JQUERY](https://i.ibb.co/9ZfD4pC/jquery1.png?v=3&s=200)](https://jquery.com/) | [![JAVASCRIPT](https://i.ibb.co/0JdBKBK/js-logo.png?v=3&s=200)](https://www.javascript.com/)  |
@@ -54,6 +56,9 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 | :---: | :---: | :---: |
 | [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://www.w3schools.com/html/) | [![CSS](https://i.ibb.co/q7rkD2p/logo-css3.png?v=3&s=200)](http://css.org.pa/)  |[![API](https://i.ibb.co/tmQ1QDm/kisspng-application-programming-interface-representational-api-icon-5b4e07a25620d6-0714815615318404183528.jpg?v=3&s=200)](https://www.abc.es/tecnologia/consultorio/20150216/abci--201502132105.html?ref=https%3A%2F%2Fwww.google.com%2F)  |
 | Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado, es muy usado para establecer el diseño visual. |API son un conjunto de comandos, funciones y protocolos informáticos que permiten a los desarrolladores crear programas específicos para ciertos sistemas operativos. |
+
+
+> BACK-END
 
 | **PHP**| **POSTGRES**|
 | :---: | :---: |
