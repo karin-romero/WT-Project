@@ -20,6 +20,13 @@ Existen pacientes con enfermedades catastróficas que ameritan de mucha atenció
 Al momento en nuestro banco de sangre, no disponemos del stock suficiente para cubrir con la necesidad del paciente; A parte de ello existe una lista de espera interminable del cual solo se les ha notificado que tendrán que seguir esperando el llamado de la institución médica en los próximos días, y/o llamando constantemente por teléfono a una línea convencional proporcionada o a su vez acercándose a consultar a la institución si existe la disponibilidad.
 
 ---
+##ESTRATEGIA DEL PLAN DE ACCIÓN
+
+> PROPUESTA
+Para este proyecto se requiere optimizar el proceso de donación de sangre, facilitando la voluntad de los donantes el querer registrar sus datos sin sentirse amenazados de un posible contagio con la pandemia.
+Crea un sistema que nos permita registrar y mantener informado a las partes interesadas para el abastecimiento de banco de sangre.
+
+---
 ## TECNOLOGÍA APLICADA
 
 | **BOOTSTRAP**| **JQUERY**| **JAVASCRIPT** |
@@ -32,20 +39,6 @@ Al momento en nuestro banco de sangre, no disponemos del stock suficiente para c
 | [![PHP](https://i.ibb.co/yfNd4vN/php45.jpg?v=3&s=200)](https://getbootstrap.com/)    | [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://jquery.com/) | [![CSS](https://i.ibb.co/q7rkD2p/logo-css3.png?v=3&s=200)](https://www.javascript.com/)  |
 | Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado, es muy usado para establecer el diseño visual. |
 
-include terms/tags that can be searched
-
-
-[Project Brief]
-
-[Link to the presentation]
-
-## Members
-
-
-
-## Problem statement
-
-[add here the problem definition... you can include images to illustrate]
 
 
 ## Proposal
