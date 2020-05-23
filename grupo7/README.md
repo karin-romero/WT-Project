@@ -20,9 +20,10 @@ Existen pacientes con enfermedades catastróficas que ameritan de mucha atenció
 Al momento en nuestro banco de sangre, no disponemos del stock suficiente para cubrir con la necesidad del paciente; A parte de ello existe una lista de espera interminable del cual solo se les ha notificado que tendrán que seguir esperando el llamado de la institución médica en los próximos días, y/o llamando constantemente por teléfono a una línea convencional proporcionada o a su vez acercándose a consultar a la institución si existe la disponibilidad.
 
 ---
-##ESTRATEGIA DEL PLAN DE ACCIÓN
+## ESTRATEGIA DEL PLAN DE ACCIÓN
 
 > PROPUESTA
+
 Para este proyecto se requiere optimizar el proceso de donación de sangre, facilitando la voluntad de los donantes el querer registrar sus datos sin sentirse amenazados de un posible contagio con la pandemia.
 Crea un sistema que nos permita registrar y mantener informado a las partes interesadas para el abastecimiento de banco de sangre.
 
