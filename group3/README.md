@@ -16,9 +16,12 @@ Fast Orders
 
 ## Problem statement
 
- - Actualmente en los centros comerciales se aglomeran las personas en los locales de comida, provocando desorden y posibles nuevos contagios de coranavirus.
-
-
+  - Actualmente, el Patio de Comidas de los Centros Comerciales de nuestro país, no cuentan con espacio suficiente para la implementación de medidas de distanciamiento 
+ durante el proceso de selección, pago y retiro de alimentos por parte de los clientes que visitan el Mall, afectando de esta manera la política de distanciamiento exigida por el Gobierno
+ que busca evitar un nuevo brote de contagios por covid-19
+ 
+  
+ 
 ## Proposal
 
  - Cada mesa del patio de comidas tendra un código QR en el centro, el cual se puede escanear con el celular de las personas y este los redirigirá a la página web de nuestro sitio en internet, en donde podran encontrar todos los locales disponibles para realizar sus pedido sin tener que aglomerarse en la caja de cada local.
