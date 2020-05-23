@@ -27,14 +27,17 @@ Al momento en nuestro banco de sangre, no disponemos del stock suficiente para c
 Para este proyecto se requiere optimizar el proceso de donación de sangre, facilitando la voluntad de los donantes el querer registrar sus datos sin sentirse amenazados de un posible contagio con la pandemia.
 Crea un sistema que nos permita registrar y mantener informado a las partes interesadas para el abastecimiento de banco de sangre.
 
-- Cruz Roja
-- Donantes Voluntarios
-- Paciente que requieran transfusión
+ - Cruz Roja
+ - Donantes Voluntarios
+ - Paciente que requieran transfusión
 
 Esta App permitirá al posible donante voluntario registrarse para verificar si esta apto para dicha trasfusión, la institución médica obtendrá los datos requeridos y evaluará si amerita dirigirse con todo el equipo de protección al lugar de domicilio del donante voluntario para las respectivas pruebas. 
 Una vez obtenida la pinta de sangre nos permitirá llevar un registro de donantes voluntarios y mantenerlos en la base de datos para futuras donaciones, un donante puede realizar sus donaciones 4 veces en el año con las respectivas normas de protección y bioseguridad, manteniendo un seguimiento de los voluntarios.
 Al disponer del stock en el banco de sangre, se podrá indicar al paciente en espera mediante una notificación que le llegará automáticamente para la adquisición de la misma.
 
+---
+## DIAGRAMA DE PROCESO
+[![](https://i.ibb.co/cyc3Fg1/PROCESO1.png)]()
 
 ---
 ## TECNOLOGÍA APLICADA
