@@ -67,6 +67,33 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 | Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto. |
 
 
+## JUSTIFICACIÓN Y BENEFICIÓS DE HERRAMIENTAS UTILIZADAS
+ - Por sus facilidades de uso, se logró crear un sitio Web en poco tiempo.
+ - Mantienen una curva de aprendizaje relativamente sencilla para los programadores, lo cual facilitó enormemente el trabajo.
+ - Al proveernos de todas las reglas de CSS para nuestro sitio Web, fue adaptable de forma dinámica entre la mayoría de las pantallas.
+ - Permiten extender nuestro sistema adaptándolo a las necesidades del mismo.
+ - Boostrap proporciona themes, permitiendo crear sitios web dinámicos y optimizados.
+ - Al ser responsive, permite visualizar el sistema desde cualquier dispositivo móvil, adaptándose perfectamente a sus diseños.
+
+
+## CARACTERÍSTICAS QUE BRINDAN LAS HERRAMIENTAS PARA LA UTILIZACIÓN DE LA PROBLEMÁTICA
+
+Al disponer de un fácil acceso hacia el código y empezar a trabajar en el sitio web; Bootstrap nos permitió usar y personalizar de manera sencilla todos los elementos como lo mostrado en el sitio del cual tenemos:
+
+ - Barras de Navegación
+ - Formularios
+ - Tablas
+ - Botones
+ - etc
+
+Otra de sus características que nos permitió utilizar boostrap, es la compatibilidad con la mayoría de los navegadores web del mercado como:
+ - Google Chrome (en todas las plataformas)
+ - Safari (tanto en iOS como en Mac)
+ - Mozilla Firefox (en Mac y en Windows)
+ - Internet Explorer (en Windows y Windows Phone)
+ - Opera (en Windows y Mac)
+
+
 ## DEMO
 [![DEMO SISTEMA DONANTES GEOLOCALIZADOS](https://i.ibb.co/TkY8MrF/BOTN.png)](https://isaisi9.github.io/Proyecto/login.html)
 
