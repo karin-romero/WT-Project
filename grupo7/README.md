@@ -27,6 +27,15 @@ Al momento en nuestro banco de sangre, no disponemos del stock suficiente para c
 Para este proyecto se requiere optimizar el proceso de donación de sangre, facilitando la voluntad de los donantes el querer registrar sus datos sin sentirse amenazados de un posible contagio con la pandemia.
 Crea un sistema que nos permita registrar y mantener informado a las partes interesadas para el abastecimiento de banco de sangre.
 
+- Cruz Roja
+- Donantes Voluntarios
+- Paciente que requieran transfusión
+
+Esta App permitirá al posible donante voluntario registrarse para verificar si esta apto para dicha trasfusión, la institución médica obtendrá los datos requeridos y evaluará si amerita dirigirse con todo el equipo de protección al lugar de domicilio del donante voluntario para las respectivas pruebas. 
+Una vez obtenida la pinta de sangre nos permitirá llevar un registro de donantes voluntarios y mantenerlos en la base de datos para futuras donaciones, un donante puede realizar sus donaciones 4 veces en el año con las respectivas normas de protección y bioseguridad, manteniendo un seguimiento de los voluntarios.
+Al disponer del stock en el banco de sangre, se podrá indicar al paciente en espera mediante una notificación que le llegará automáticamente para la adquisición de la misma.
+
+
 ---
 ## TECNOLOGÍA APLICADA
 
@@ -41,19 +50,6 @@ Crea un sistema que nos permita registrar y mantener informado a las partes inte
 | Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado, es muy usado para establecer el diseño visual. |
 
 
-
-## Proposal
-
-[Solution strategy and seleccion of web technology]
-
-[you can add any subseccion]
-
-
-## Proof of concept (DEMO)
-
-[Screenshopt of the demos + brief description ]
-
-
-## References
+## REFERENCIAS
 
 [Optional]
