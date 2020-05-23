@@ -1,4 +1,0 @@
-IndexedDB
-=========
-
-IndexedDB examples
