@@ -157,6 +157,20 @@ class Carrito {
         });
     }
 
+    //Mostrar los productos guardados en el LS en checkout.html
+    leerLocalStorageCheckout(){
+        let productosLS;
+        productosLS = this.obtenerProductosLocalStorage();
+        productosLS.forEach(function (producto){
+            const row = document.createElement('li');
+            row.innerHTML = `
+                ${producto.titulo}
+                <span>${producto.precio}</span>
+            `;
+            listaCompra.appendChild(row);
+        });
+    }
+
     //Eliminar producto por ID del LS
     eliminarProductoLocalStorage(productoID){
         let productosLS;
