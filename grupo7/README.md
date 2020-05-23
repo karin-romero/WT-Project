@@ -67,6 +67,7 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 | Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto. |
 
 
+---
 ## JUSTIFICACIÓN Y BENEFICIÓS DE HERRAMIENTAS UTILIZADAS
  - Por sus facilidades de uso, se logró crear un sitio Web en poco tiempo.
  - Mantienen una curva de aprendizaje relativamente sencilla para los programadores, lo cual facilitó enormemente el trabajo.
@@ -76,6 +77,7 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
  - Al ser responsive, permite visualizar el sistema desde cualquier dispositivo móvil, adaptándose perfectamente a sus diseños.
 
 
+---
 ## CARACTERÍSTICAS QUE BRINDAN LAS HERRAMIENTAS PARA LA UTILIZACIÓN DE LA PROBLEMÁTICA
 
 Al disponer de un fácil acceso hacia el código y empezar a trabajar en el sitio web; Bootstrap nos permitió usar y personalizar de manera sencilla todos los elementos como lo mostrado en el sitio del cual tenemos:
@@ -93,7 +95,7 @@ Otra de sus características que nos permitió utilizar boostrap, es la compatib
  - Internet Explorer (en Windows y Windows Phone)
  - Opera (en Windows y Mac)
 
-
+---
 ## DEMO
 [![DEMO SISTEMA DONANTES GEOLOCALIZADOS](https://i.ibb.co/TkY8MrF/BOTN.png)](https://isaisi9.github.io/Proyecto/login.html)
 
