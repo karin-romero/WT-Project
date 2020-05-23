@@ -10,6 +10,14 @@
  - Alvaro Rivera
  - Diogenes Velasco
 
+---
+## PROBLEMA A RESOLVER
+
+> DESCRIPCIÓN DE LA SITUACIÓN ACTAL
+
+Actualmente enfrentamos una terrible crisis que ha afectado a nivel mundial a todos los países en todos los ámbitos y sectores. En nuestro país y en el mundo uno de los sectores más golpeados es el sector de la Salud, afectando a instituciones, trabajadores y pacientes.
+Existen pacientes con enfermedades catastróficas que ameritan de mucha atención y sobre todo a muchos de ellos la adquisición de pintas de sangre; Al momento de la pandemia COVID-19, emos estado con los escases de donantes ya que estos no se encuentran realizando sus donaciones por motivos del aislamiento y del temor a infectarse de dicha pandemia. Así también la institución no ha realizado la búsqueda de nuevos donantes por los motivos antes mencionados.
+Al momento en nuestro banco de sangre, no disponemos del stock suficiente para cubrir con la necesidad del paciente; A parte de ello existe una lista de espera interminable del cual solo se les ha notificado que tendrán que seguir esperando el llamado de la institución médica en los próximos días, y/o llamando constantemente por teléfono a una línea convencional proporcionada o a su vez acercándose a consultar a la institución si existe la disponibilidad.
 
 ---
 ## TECNOLOGÍA APLICADA
@@ -24,7 +32,7 @@
 | [![PHP](https://i.ibb.co/yfNd4vN/php45.jpg?v=3&s=200)](https://getbootstrap.com/)    | [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://jquery.com/) | [![CSS](https://i.ibb.co/q7rkD2p/logo-css3.png?v=3&s=200)](https://www.javascript.com/)  |
 | Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado, es muy usado para establecer el diseño visual. |
 
-> include terms/tags that can be searched
+include terms/tags that can be searched
 
 
 [Project Brief]
