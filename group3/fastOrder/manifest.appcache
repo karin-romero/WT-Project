@@ -1,0 +1,14 @@
+CACHE MANIFEST
+#DATE 2020-15-23
+CACHE:
+css/style.css
+img/featured/feature-9.jpg
+img/featured/feature-10.jpg
+js/carrito/carrito.js
+js/carrito/compra.js
+js/carrito/pedido.js
+js/carrito/checkout.js
+NETWORK:
+*
+
+FALLBACK:

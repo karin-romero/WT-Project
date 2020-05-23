@@ -2,8 +2,8 @@ const compra = new Carrito();
 const listaCompra = document.querySelector("#lista-compra tbody");
 const carrito = document.getElementById('carrito');
 const procesarCompraBtn = document.getElementById('procesar-compra');
-const cliente = document.getElementById('cliente');
-const correo = document.getElementById('correo');
+const cliente = "Omar"//document.getElementById('cliente');
+const correo = "omar_morejon@hotmail.com"//document.getElementById('correo');
 
 
 cargarEventos();
@@ -49,7 +49,8 @@ function procesarCompra() {
     }
     else {
         
-        //aqui se coloca el user id generado en el emailJS
+        location.href = "checkout.html";
+        /*//aqui se coloca el user id generado en el emailJS
         (function () {
             emailjs.init("user_CEozz2F39lJJOLF5mJiDA");
         })();
@@ -90,7 +91,7 @@ function procesarCompra() {
 
             return false;
 
-        });
+        });*/
 
     }
 }

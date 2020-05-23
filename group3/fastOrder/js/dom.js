@@ -34,9 +34,9 @@ function cargarMenu(params) {
     document.getElementById("tituloMenu").innerHTML = "Menú "+params;
     document.getElementById("lista-productos").innerHTML = "";
     $cardContent.forEach(el => {
-        $template.getElementById("contentImg").setAttribute("data-setbg",el.img);
-        $template.getElementById("contentImg").setAttribute("style",el.style);
-        $template.getElementById("contentImg").setAttribute("data-id",el.id);
+        $template.querySelector(".featured__item__pic.set-bg").setAttribute("data-setbg",el.img);
+        $template.querySelector(".featured__item__pic.set-bg").setAttribute("style",el.style);
+        $template.querySelector(".featured__item__pic.set-bg").setAttribute("data-id",el.id);
         $template.getElementById("colContainer").setAttribute("class",el.class);
         $template.querySelector(".nameProduct").innerHTML = el.title;
         //$template.getElementById("price").innerHTML = el.price;
