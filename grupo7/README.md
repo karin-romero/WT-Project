@@ -57,7 +57,7 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 
 
 ## DEMO
-[![DEMO SISTEMA DONANTES GEOLOCALIZADOS](https://i.ibb.co/h2yDFdK/gratipay.png)](https://isaisi9.github.io/Proyecto/login.html)
+[![DEMO SISTEMA DONANTES GEOLOCALIZADOS](https://i.ibb.co/TkY8MrF/BOTN.png)](https://isaisi9.github.io/Proyecto/login.html)
 
 
 ## REFERENCIAS
