@@ -39,6 +39,9 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 ## DIAGRAMA DE PROCESO
 [![](https://i.ibb.co/cyc3Fg1/PROCESO1.png)]()
 
+[![](https://i.ibb.co/NSWTRGt/PROCESO2.png)]()
+
+
 ---
 ## TECNOLOGÍA APLICADA
 
