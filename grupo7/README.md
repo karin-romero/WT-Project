@@ -50,10 +50,15 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 | [![BOOTSTRAP](https://i.ibb.co/61r1KS7/bootstrap2.png?v=3&s=200)](https://getbootstrap.com/)    | [![JQUERY](https://i.ibb.co/9ZfD4pC/jquery1.png?v=3&s=200)](https://jquery.com/) | [![JAVASCRIPT](https://i.ibb.co/0JdBKBK/js-logo.png?v=3&s=200)](https://www.javascript.com/)  |
 | Es un framework web y una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web. Contiene plantillas de diseño con tipografía, formularios, botones, cuadros, menús de navegación y otros elementos de diseño basado en HTML y CSS. | Es una biblioteca multiplataforma de JavaScript, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.| Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico. |
 
-| **PHP**| **HTML**| **CSS** |
-| :---: | :---: | :---: |
-| [![PHP](https://i.ibb.co/yfNd4vN/php45.jpg?v=3&s=200)](https://getbootstrap.com/)    | [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://jquery.com/) | [![CSS](https://i.ibb.co/q7rkD2p/logo-css3.png?v=3&s=200)](https://www.javascript.com/)  |
-| Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado, es muy usado para establecer el diseño visual. |
+| **HTML**| **CSS** |
+| :---: | :---: |
+| [![HTML](https://i.ibb.co/xhNjjLy/HTML.png?v=3&s=200)](https://www.w3schools.com/html/) | [![CSS](https://i.ibb.co/q7rkD2p/logo-css3.png?v=3&s=200)](http://css.org.pa/)  |
+| Es un estándar que sirve de referencia del software que conecta con la elaboración de páginas web en sus diferentes versiones, define una estructura básica y un código (denominado código HTML) para la definición de contenido de una página web, como texto, imágenes, videos, juegos, entre otros. | Es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado, es muy usado para establecer el diseño visual. |
+
+| **PHP**| **POSTGRES**|
+| :---: | :---: |
+| [![PHP](https://i.ibb.co/yfNd4vN/php45.jpg?v=3&s=200)](https://www.postgresql.org/)    | [![POSTGRES](https://i.ibb.co/2dv0HWP/image-2020-05-23-T21-25-05-686-Z.png?v=3&s=200)](https://jquery.com/) |
+| Es un lenguaje de programación de propósito general de código del lado del servidor originalmente diseñado para el preprocesado de texto plano en UTF-8. Fue uno de los primeros lenguajes de programación del lado del servidor que se podían incorporar directamente en un documento HTML. | Es un sistema de gestión de bases de datos relacional orientado a objetos y de código abierto. |
 
 
 ## DEMO
