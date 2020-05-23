@@ -16,24 +16,25 @@
 > DESCRIPCIÓN DE LA SITUACIÓN ACTAL
 
 Actualmente enfrentamos una terrible crisis que ha afectado a nivel mundial a todos los países en todos los ámbitos y sectores. En nuestro país y en el mundo uno de los sectores más golpeados es el sector de la Salud, afectando a instituciones, trabajadores y pacientes.
-Existen pacientes con enfermedades catastróficas que ameritan de mucha atención y sobre todo a muchos de ellos la adquisición de pintas de sangre; Al momento de la pandemia COVID-19, emos estado con los escases de donantes ya que estos no se encuentran realizando sus donaciones por motivos del aislamiento y del temor a infectarse de dicha pandemia. Así también la institución no ha realizado la búsqueda de nuevos donantes por los motivos antes mencionados.
-Al momento en nuestro banco de sangre, no disponemos del stock suficiente para cubrir con la necesidad del paciente; A parte de ello existe una lista de espera interminable del cual solo se les ha notificado que tendrán que seguir esperando el llamado de la institución médica en los próximos días, y/o llamando constantemente por teléfono a una línea convencional proporcionada o a su vez acercándose a consultar a la institución si existe la disponibilidad.
+Existen pacientes con enfermedades catastróficas que ameritan de mucha atención y sobre todo a muchos de ellos la adquisición de pintas de sangre. Al momento de la pandemia COVID-19, la escasez de voluntarios ha sido notoria, ya que estos no se encuentran realizando donaciones por motivos del aislamiento y por temor a infectarse. Así también la institución no ha realizado la búsqueda de nuevos donantes por lo antes mencionado.
+Al momento el banco de sangre de la Cruz Roja, no dispone del stock suficiente para cubrir con la demanda de los pacientes. Existe una lista interminable de solicitantes, los mismos que deben realizar llamadas constantes para verificar disponibilidad. 
+
 
 ---
 ## ESTRATEGIA DEL PLAN DE ACCIÓN
 
 > PROPUESTA
 
-Para este proyecto se requiere optimizar el proceso de donación de sangre, facilitando la voluntad de los donantes el querer registrar sus datos sin sentirse amenazados de un posible contagio con la pandemia.
-Crea un sistema que nos permita registrar y mantener informado a las partes interesadas para el abastecimiento de banco de sangre.
+EL presente proyecto propone optimizar el proceso de donación de sangre, a través de un sistema que permitirá facilitar el registro de los datos del voluntario y solicitante, sin sentirse amenazados de un posible contagio con el virus, así también mantener informada sobre el abastecimiento del banco de sangre a las partes interesadas como son:
 
  - Cruz Roja
  - Donantes Voluntarios
  - Paciente que requieran transfusión
+ 
+Este sistema permitirá al posible donante voluntario registrarse para verificar si esta apto para la donación. La institución médica obtendrá los datos requeridos y evaluará si amerita dirigirse con todo el equipo de protección al lugar de domicilio del donante voluntario para las respectivas pruebas, esto es verificado por medio de la Geolocalización. 
+Una vez obtenida la pinta de sangre nos permitirá llevar un registro de voluntarios y mantenerlos en la base de datos para futuras donaciones, una persona puede realizar la donación de sangre hasta 4 veces en el año con las respectivas normas de protección y bioseguridad.
+Al disponer del stock en el banco de sangre, se podrá indicar al paciente en espera mediante una notificación que le llegará automáticamente en su perfil dentro del sistema, para la adquisición de la misma.
 
-Esta App permitirá al posible donante voluntario registrarse para verificar si esta apto para dicha trasfusión, la institución médica obtendrá los datos requeridos y evaluará si amerita dirigirse con todo el equipo de protección al lugar de domicilio del donante voluntario para las respectivas pruebas. 
-Una vez obtenida la pinta de sangre nos permitirá llevar un registro de donantes voluntarios y mantenerlos en la base de datos para futuras donaciones, un donante puede realizar sus donaciones 4 veces en el año con las respectivas normas de protección y bioseguridad, manteniendo un seguimiento de los voluntarios.
-Al disponer del stock en el banco de sangre, se podrá indicar al paciente en espera mediante una notificación que le llegará automáticamente para la adquisición de la misma.
 
 ---
 ## DIAGRAMA DE PROCESO
@@ -70,5 +71,22 @@ Al disponer del stock en el banco de sangre, se podrá indicar al paciente en es
 [![DEMO SISTEMA DONANTES GEOLOCALIZADOS](https://i.ibb.co/TkY8MrF/BOTN.png)](https://isaisi9.github.io/Proyecto/login.html)
 
 
+## VIDEO GRUPO 7
+
+
 ## REFERENCIAS
-[Optional]
+ - https://raiolanetworks.es/blog/que-es-bootstrap/
+ - https://www.tooltyp.com/8-razones-por-las-que-debes-utilizar-bootstrap-para-tu-web
+ - https://devcode.la/blog/por-que-utilizar-bootstrap-3/
+ - https://www.inboundcycle.com/blog-de-inbound-marketing/que-significa-query-y-por-que-es-necesario-entender-este-concepto-seo
+ - https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
+ - https://www.php.net/manual/es/intro-whatis.php
+ - https://definicion.de/html/
+ - https://es.wikipedia.org/wiki/Bootstrap_(framework)
+ - https://es.wikipedia.org/wiki/JQuery
+ - https://es.wikipedia.org/wiki/JavaScript
+ - https://es.wikipedia.org/wiki/HTML
+ - https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada
+ - https://es.wikipedia.org/wiki/PHP
+ - https://es.wikipedia.org/wiki/PostgreSQL
+ 
