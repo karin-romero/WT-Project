@@ -37,4 +37,7 @@ Esta alerta llega al departamento médico de la Institución quienes serán los 
 
 ## References
 
-[Optional]
+MONDAQ, “Ecuador: Medidas para atenuar los efectos laborales del COVID-19,” 2020. [Online]. Available: https://www.mondaq.com/employment-and-workforce-wellbeing/922928/medidas-para-atenuar-los-efectos-laborales-del-covid-19.
+
+P. ECONOMICA, “Con $3526 millones en pérdidas, el sector comercial pide vender a domicilio para tener liquidez,” 19 DE ABRIL, 2020. [Online]. Available: https://www.eluniverso.com/noticias/2020/04/19/nota/7817160/perdidas-sector-comercial-3526-millones-ventas-servicio-domicilio.
+
