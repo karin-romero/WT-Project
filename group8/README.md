@@ -19,6 +19,7 @@ El propósito de este portal es dar una herramienta al departamento médico de l
 ## Problem statement
 
 Departamento Medico de prestigiosa Institucion Financiera busca llevar un control por medio de un portal Web en el cual podran llevar un registro de todos los colaboradores para con esto disminuir los posibles contagios por Covid 19 a traves de buenas practicas de bioseguridad que permitan la reinsercion laboral para con esto mitigar las perdidas economicas en las que muchas empresas se han visto afectadas
+Esta alerta llega al departamento médico de la Institución quienes serán los encargados de procesar y administrar por medio de una ficha médica si el colaborador está o no contagiado, enviarlo a cuarentena y  dar un seguimiento a su mejora en salud y con quienes estuvo en contacto para enviarlos a aislamiento y con ello evitar la propagación.
 
 
 ## Proposal
