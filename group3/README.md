@@ -34,6 +34,8 @@ Fast Orders
 	
 	###Back - end
 	- PHP + MariaDB
+
+	![Origenes de la Industria 4.0](Demo/Solución.jpg)
 	
 
 ## Proof of concept (DEMO)
@@ -53,10 +55,10 @@ Fast Orders
 4: El sitio nos muestra el detalle de nuestras selecciones con precio unitario, taxes y total a pagar; escogemos el metodo de pago y hacemos efectiva la transacción.
 
 ![Origenes de la Industria 4.0](Demo/img-5.png)
-
+5: Luego de pulsar en el botón realizar el pedido, se visualiza un mensaje indicando que la transacción se ha realizado con éxito,  en el mismo mensaje nos indica el número de orden y el tiempo en el que se enviara una notificación indicando que debe acercarse a retirar su pedido.
 
 ![Origenes de la Industria 4.0](Demo/img-6.png)
-
+6: Se visualiza un mensaje indicando al usuario que su orden esta lista y que por favor se acerque a retirar la misma.
 
 
 ## References
