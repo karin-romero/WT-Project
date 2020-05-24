@@ -47,16 +47,16 @@ Fast Orders
 2: Luego se escogen los combos o productos, los cuales se van agregando al carrito de compras, y posteriormente se procede a procesar el pago.
 
 ![Origenes de la Industria 4.0](Demo/img-3.png)
-Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra
+
 
 ![Origenes de la Industria 4.0](Demo/img-4.png)
 4: El sitio nos muestra el detalle de nuestras selecciones con precio unitario, taxes y total a pagar; escogemos el metodo de pago y hacemos efectiva la transacción.
 
 ![Origenes de la Industria 4.0](Demo/img-5.png)
-Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra
+
 
 ![Origenes de la Industria 4.0](Demo/img-6.png)
-Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra
+
 
 
 ## References
