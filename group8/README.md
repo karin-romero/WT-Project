@@ -25,9 +25,12 @@ Esta alerta llega al departamento médico de la Institución quienes serán los 
 
 ## Proposal
 
-[Solution strategy and seleccion of web technology]
+A continuacion tenemos la arquitectura el proceso inicia cuando a la Doctora de la institucion le llega un correo en el cual le notifica el empleado que tiene los sintomas del covid. 
+La doctora a traves de la pagina web ingresa el nombre del empleado que tiene los sintomas del covid, este envia una solicitud (un Http Get Request) al Web Services, el cual realiza un Request Data con el Sever de la Aplicacion Web, 
+la informacion del empleado es obtenida de la Base de Datos. La Base de Datos contiene informacion acerca del empleado y los incidentes que han sido atentidos por el empleado que corresponde al departamento tecnico, 
+además de los turnos en la cafeteria. La data es enviada al Web Application el cual interactua con el Web Server, el Web Server realiza un Http Get Response hacia el Cliente, y le devuelve los siguientes datos: 
+Nombre del Usuario, Correo, extension y fecha de registro, con esta informacion la doctora conocera aquellas personas con las cuales estuvo el empleado.
 
-[you can add any subseccion]
 
 
 ## Proof of concept (DEMO)
