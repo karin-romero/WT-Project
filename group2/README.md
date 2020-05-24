@@ -1,6 +1,6 @@
 # GROUP [NUMBER]
 
-[Project title]
+[Sistema web offline]
 
 [Project Brief]
 
@@ -8,11 +8,11 @@
 
 ## Members
 
- - [NAME1]
- - [NAME2]
- - [NAME3]
- - [NAME4]
- - [NAME5]
+ - [Carlos Panta]
+ - [Luis Lopez]
+ - [Paul Campos]
+ - [Carlos Roca]
+ - [Ana Huapi]
 
 
 ## Problem statement
