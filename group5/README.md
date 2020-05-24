@@ -5,7 +5,7 @@
 
 ##### BRIEF
 > Desarrollo de prototipo de aplicación web para recopilar ofertas de trabajo publicados en diferentes
-portales de empleo mediante la tecnica de Web Scrapping y que posterior permita a la persona interesada ingresar al sitio web para consultar la informacion obtenida mediante busqueda semantica para dar el mejor resultado.
+portales de empleo mediante la tecnica de Web Scraping y que posterior permita a la persona interesada ingresar al sitio web para consultar la informacion obtenida mediante busqueda semantica para dar el mejor resultado.
 
 [Link to the presentation]
 
