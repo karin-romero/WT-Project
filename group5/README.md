@@ -28,7 +28,9 @@ publicados en varios portales conocidos a nivel nacional,  ordenados por fechas,
 
 ## Proposal
 
-![image](https://user-images.githubusercontent.com/65081413/82602818-48063000-9b77-11ea-8bb0-363a3e4dd700.png)
+![image](https://user-images.githubusercontent.com/65081413/82743056-3cf40100-9d2b-11ea-8dcd-e267f3deb913.png)
+![image](https://user-images.githubusercontent.com/65081413/82743070-690f8200-9d2b-11ea-9a2f-8b0f55d021a7.png)
+
 
 #### DJango
 
