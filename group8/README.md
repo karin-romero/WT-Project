@@ -1,6 +1,6 @@
 # GROUP 8
 
-## Minimizar la segunda ola de contagio del Covid 19 luego de la reinsersión laboral en las Empresas
+## Portal Web para Control de InfecciÃ³n Covid 19 ##
 
 [Project Brief]
 
