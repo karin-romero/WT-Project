@@ -103,15 +103,19 @@ Ejemplo del Scraping Site 03:
 
 ![image](https://user-images.githubusercontent.com/65081413/82746168-6b390700-9d52-11ea-820f-8f20f1e5a5f6.png)
 
-#front End Scraping App-> Dashboard principal
+### front End Scraping App-> Dashboard principal
 ![dashboard](https://user-images.githubusercontent.com/65080728/82746355-61180800-9d54-11ea-98a8-d8a4570ce468.png)
-#Opción de visualización de ofertas por página web por cargo y sueldo. 
+
+###Opción de visualización de ofertas por página web por cargo y sueldo. 
 ![Indicadores](https://user-images.githubusercontent.com/65080728/82746381-a2101c80-9d54-11ea-94a3-90d050a492f7.png)
-#Listado de ofertas de empleo consolidado.
+
+###Listado de ofertas de empleo consolidado.
 ![Información Empleos](https://user-images.githubusercontent.com/65080728/82746414-f87d5b00-9d54-11ea-84c2-7013a487335f.png)
-#Búsqueda semántica del área laboral seleccionada, para el ejemplo: Sistemas.
+
+###Búsqueda semántica del área laboral seleccionada, para el ejemplo: Sistemas.
 ![ingreso_texto](https://user-images.githubusercontent.com/65080728/82746428-29f62680-9d55-11ea-8631-70876179c2d4.png)
-#Resultados de la búsqueda semántica Sistemas de los portales de ofertas de empleo.
+
+###Resultados de la búsqueda semántica Sistemas de los portales de ofertas de empleo.
 ![resultados](https://user-images.githubusercontent.com/65080728/82746437-47c38b80-9d55-11ea-8a21-4cea980d42c4.png)
 
 
