@@ -32,6 +32,12 @@ además de los turnos en la cafeteria. La data es enviada al Web Application el 
 Nombre del Usuario, Correo, extension y fecha de registro, con esta informacion la doctora conocera aquellas personas con las cuales estuvo el empleado.
 
 
+Se empleara la integración del framework Bootstrap con MVC (Modelo Vista Controlador), debido a que ahorra tiempo en la etapa de diseño de una página web, con este framework todo se hace rapido y sencillo a la hora de crear una pagina web. 
+Cuando creamos nuestras vistas mediante MVC va a ser mucho mas sencillo debido a que existen plantillas predeterminadas a la hora de actualizar, listar o borrar elementos desde nuestra base de datos.
+Se ahorrara tiempo debido a que se dispone de fondos, cuadriculas y varios elementos de estilo html y css listos para emplear formularios, tablas, iconos o botones, es decir brinda muchos complementos para crear una pagina profesional. 
+Es responsive lo cual lo hace adaptable para los moviles. Ayuda a mejorar la experiencia del usuario. Es flexible y tiene baja complejidad de implementacion.
+
+
 
 ## Proof of concept (DEMO)
 
