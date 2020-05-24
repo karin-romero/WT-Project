@@ -89,15 +89,17 @@ Bootstrap permite crear interfaces web con CSS y Javascript que se adaptan en fu
 
 Para la demostracion de la solución detallada se creo un proyecto en DJango el cual aplica Web Scraping a las siguientes paginas de empleos:
 
-    https://ec.jobomas.com/Trabajo-en-guayas
-    https://www.unmejorempleo.com.ec/empleo-en-guayas.html
-    https://www.computrabajo.com.ec/empleos-en-guayas
+    Site 01 https://ec.jobomas.com/Trabajo-en-guayas
+    Site 02 https://www.unmejorempleo.com.ec/empleo-en-guayas.html
+    Site 03 https://www.computrabajo.com.ec/empleos-en-guayas
 
 Y los datos obtenidos se presentaran de la siguiente manera:
 
-[Screenshopt of the demos + brief description ]
+![image](https://user-images.githubusercontent.com/65081413/82746142-0bdaf700-9d52-11ea-9006-ca12cd4e4d97.png)
 
+![image](https://user-images.githubusercontent.com/65081413/82746132-ee0d9200-9d51-11ea-9f2e-89870d649f90.png)
 
-## References
+Ejemplo del Scraping Site 03:
 
-[Optional]
+![image](https://user-images.githubusercontent.com/65081413/82746168-6b390700-9d52-11ea-820f-8f20f1e5a5f6.png)
+
