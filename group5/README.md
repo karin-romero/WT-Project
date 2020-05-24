@@ -23,13 +23,13 @@ portales de empleo mediante la tecnica de Web Scrapping y que posterior permita 
 
 Existen varios portales web para la consulta de ofertas de trabajos, en los cuales la persona interesada accede, y de este modo permanece informado sobre las nuevas plazas laborales, sin embargo; esta acción es manual y debe ser constante, no existe una automatización que reuna las recientes publicaciones en los diferentes portales para que puedan ser visualizadas en una misma pantalla de consulta.
  Con este antecede se plantea el desarrollo de una interfaz web, que permita consolidar ofertas de trabajos 
-publicados en varios portales conocidos a nivel nacional mediante la tecnica de Web Scrapping con DJango y que posterior permita a la persona interesada ingresar al sitio web para consultar la informacion obtenida mediante busqueda semantica para dar el mejor resultado.
+publicados en varios portales conocidos a nivel nacional mediante la tecnica de Web Scrapping con DJango y que posterior permita a la persona interesada ingresar al sitio web para consultar la informacion obtenida mediante busqueda semántica para dar el mejor resultado.
 
 
 ## Proposal
 
 
-En el siguiente grafico se describe la aplicacion de la tecnica web scraping para obtener las ofertas de trabajos publicados en diferentes sitios web, para lo cual intervienen las siguientes componentes:
+En el siguiente gráfico se describe la aplicacion de la tecnica web scraping para obtener las ofertas de trabajos publicados en diferentes sitios web, para lo cual intervienen las siguientes componentes:
 
 ![image](https://user-images.githubusercontent.com/65081413/82743070-690f8200-9d2b-11ea-9a2f-8b0f55d021a7.png)
 
