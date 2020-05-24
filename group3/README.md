@@ -1,6 +1,6 @@
 # GROUP 3
 
-Fast Orders
+Order Food
 
 [Project Brief]
 
@@ -24,7 +24,7 @@ Fast Orders
  
 ## Proposal
 
- - Cada mesa del patio de comidas tendra un código QR en el centro, el cual se puede escanear con el celular de las personas y este los redirigirá a la página web de nuestro sitio en internet, en donde podran encontrar todos los locales disponibles para realizar sus pedido sin tener que aglomerarse en la caja de cada local.
+ - Cada mesa del patio de comidas tendra un código QR en el centro, el cual se puede escanear con el celular de las personas y este los redireccionará a la página web de nuestro sitio en internet, en donde podran encontrar todos los locales disponibles para realizar sus pedidos sin tener que aglomerarse en la caja de cada local.
  - Luego podran escoger el local y visualizar su menú, posterior podran realizar su orden en la cual podran ingresar sus datos para la facturación y hacer el pago corespondiente.
  - Cuando el pedido se encuentre atendido se enviará desde el local comercial una notificacion a la conexion del sitio web de cada cliente para que se acerque a retirar su pedido.
  - Toda la información mostrada se aloja en un servidor central, el cual envia las peticiones a los locales del patio de comida.
@@ -33,7 +33,7 @@ Fast Orders
 	- HTML5 + JS + CSS3 + BOOTSTRAP 4 + (API Offline, workers, indexDB) 
 	
 	###Back - end
-	- PHP + MariaDB
+	- PHP + MongoDB
 
 	![Origenes de la Industria 4.0](Demo/Solución.jpg)
 	
@@ -43,12 +43,13 @@ Fast Orders
 [Screenshopt of the demos + brief description ]
 
 ![Origenes de la Industria 4.0](Demo/img-1.png)
-
+1: Esta imagen corresponde a la presentación de nuestro sitio OrderFood en el cual el cliente podrá seleccionar el combo o menú de preferencia de cualquier local de venta de comida sin tener que hacer largas filas. Una vez elegido su Orden de compra está será enviada al local afiliado a fin de que se registre dicha solicitud.
 
 ![Origenes de la Industria 4.0](Demo/img-2.png)
 2: Luego se escogen los combos o productos, los cuales se van agregando al carrito de compras, y posteriormente se procede a procesar el pago.
 
 ![Origenes de la Industria 4.0](Demo/img-3.png)
+3: Esta imagen muestra al cliente el precio, cantidad y total a pagar por los combos seleccionados a fin de que se procese su orden de compra.
 
 
 ![Origenes de la Industria 4.0](Demo/img-4.png)
