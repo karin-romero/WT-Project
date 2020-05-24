@@ -34,7 +34,7 @@ En el siguiente grafico se describe la aplicacion de la tecnica web scraping par
 ![image](https://user-images.githubusercontent.com/65081413/82743070-690f8200-9d2b-11ea-9a2f-8b0f55d021a7.png)
 
 
-#### Tecnica WEB Scraping
+### 1. Tecnica WEB Scraping
 Web scraping, también conocido como extracción de datos web, es una técnica para la extracción dirigida y automatizada de información de sitios web, además puede ayudar a archivar datos y rastrear cambios en línea. El raspado web utiliza la automatización inteligente para recuperar cientos y millones de puntos de datos de la Internet, así mismo permite adquirir datos no tabulares o mal estructurados de sitios web y convertirlos a un formato estructurado y utilizable, como un archivo .csv u hoja de cálculo.
 
 Web scraping funciona mediante dos partes: un rastreador web y un raspador web. El rastreador conduce el raspador, como si fuera a mano, a través de Internet, donde extrae los datos solicitados. 
@@ -46,10 +46,10 @@ Es una inteligencia artificial que navega por Internet para indexar y buscar con
 Es una herramienta especializada diseñada para extraer datos de forma precisa y rápida de una página web. Los raspadores web varían ampliamente en diseño y complejidad, dependiendo del proyecto.
 
 
-#### DJango
+### 2. DJango
 Django  es un framework de aplicaciones web gratuito y de código abierto (open source) escrito en Python. 
 
-#### Heroku
+### 3. Heroku
 Heroku es una plataforma como servicio de computación en la Nube que se especializa en ofrecer servicios de plataforma administrada, en donde se pueden alojar aplicaciones desarrolladas en diferentes lenguajes de programación como Java, Node.js, Scala, Clojure y Python y (no documentado) PHP. Su base del sistema operativo es Debian o, en la nueva plataforma, el sistema basado en Debian Ubuntu.
 Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, estos son utilizados para albergar las aplicaciones web, webservices o aplicaciones que se ejecutan del lado del servidor, así mismo cuenta con la posibilidad de instalar add-ons para agregar funcionalidades a dichos contenedores, por ejemplo, se pueden agregar servicios administrados de base de datos, almacenamiento en la nube o mensajería(MQ).
 
@@ -61,11 +61,14 @@ Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, e
 
 ![image](https://user-images.githubusercontent.com/65081413/82743222-0370c500-9d2e-11ea-83df-8bca4edec463.png)
 
-#### Power Bi
+Del lado de cliente por medio de su navegador se accedera al sitio web el cual contrara con un buscador y presentara un dashboard para la visualizacion de las ofertas de trabajos obtenidas con la tecnica del web scraping. 
 
-#### Bootstrap
+### Power Bi
+Power BI es la herramienta de business intelligence o inteligencia de negocio de Microsoft. Proporciona un análisis en profundidad y tiempo real de los datos de negocio, convirtiéndolos en información de valor que ayuda a tomar las mejores decisiones empresariales.
 
-[you can add any subseccion]
+* Power BI es una herramienta intuitiva y fácil de utilizar, porque permite crear informes y paneles básicos sin conocimientos técnicos, sobre todo en la versión Desktop
+
+* Power BI permite hacer múltiples análisis complejos en un solo panel, con una visualización única muy atractiva.
 
 
 ## Proof of concept (DEMO)
