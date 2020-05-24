@@ -1,6 +1,7 @@
 # GROUP 8
 
-![imagen](WT-Project/group8/covid.jpg)
+![covid](https://user-images.githubusercontent.com/65081905/82744471-9e719b00-9d3e-11ea-9a67-ff243e0cdbd9.JPG)
+
 
 El propósito de este portal es dar una herramienta al departamento médico de la empresa para que cuando detecte una persona que sea Covid 19 positivo pueda ubicar las personas con las que tuvo contacto en un periodo de tiempo y así puedan ejecutar medidas preventivas y evitar que se generen nuevos contagios.
 
