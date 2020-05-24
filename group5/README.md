@@ -30,7 +30,6 @@ publicados en varios portales conocidos a nivel nacional,  ordenados por fechas,
 
 ![image](https://user-images.githubusercontent.com/65081413/82743070-690f8200-9d2b-11ea-9a2f-8b0f55d021a7.png)
 
-![image](https://user-images.githubusercontent.com/65081413/82743056-3cf40100-9d2b-11ea-8dcd-e267f3deb913.png)
 
 #### Tecnica WEB Scraping
 Web scraping, también conocido como extracción de datos web, es una técnica para la extracción dirigida y automatizada de información de sitios web, además puede ayudar a archivar datos y rastrear cambios en línea. El raspado web utiliza la automatización inteligente para recuperar cientos y millones de puntos de datos de la Internet, así mismo permite adquirir datos no tabulares o mal estructurados de sitios web y convertirlos a un formato estructurado y utilizable, como un archivo .csv u hoja de cálculo.
@@ -57,7 +56,11 @@ Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, e
 *	Seguimiento. Existe un manejador de Dynos, el cual continuamente monitorea los dynos que están en ejecución, en caso de que uno falle es eliminado y creado nuevamente.
 *	Distribución y redundancia. Los Dynos se encuentran aislados uno de otro. Esto implica que de existir fallos en la infraestructura interna de alguno de ellos, los otros dynos no se ven afectados, y consecuentemente tampoco la aplicación.
 
+![image](https://user-images.githubusercontent.com/65081413/82743222-0370c500-9d2e-11ea-83df-8bca4edec463.png)
 
+#### Power Bi
+
+#### Bootstrap
 
 [you can add any subseccion]
 
