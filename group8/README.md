@@ -35,9 +35,22 @@ Nombre del Usuario, Correo, extension y fecha de registro, con esta informacion 
 
 ## Proof of concept (DEMO)
 
-[Screenshopt of the demos + brief description ]
+1. Portal Web donde se va ingresar el nombre del empleado en este caso que se encuentra contagiado, para asi verificar con cuantas personas estuvo en contacto
+Ingresara el nombre, apellido, fecha de inicio y fin; es decir en el tiempo en que estuvo en contacto con personal del area.
+
+![Captura](https://user-images.githubusercontent.com/65081905/82746431-2cf11700-9d55-11ea-8b67-4b93efc86c97.JPG)
 
 
+2. Luego el usuario es decir el medico de turno en del departamento medico procedera a dar click en el boton buscar, en donde podra presenciar un reporte detallando las personas conquien estuvo en contacto la persona actualmente contagiada.
+
+![Captura1](https://user-images.githubusercontent.com/65081905/82746463-c4566a00-9d55-11ea-8396-d7d6fae20d01.JPG)
+
+3. Si el usuario en este caso el medico de turno en del departamento medico desea descargar el reporte, se puede presenciar las opciones como: PDF, COPY, EXCEL, PRINT.
+
+Para esta demostracion se la realizo en PDF.
+
+![Captura2](https://user-images.githubusercontent.com/65081905/82746530-5a8a9000-9d56-11ea-99d9-1c788fc51005.JPG)
+ 
 ## References
 
 MONDAQ, “Ecuador: Medidas para atenuar los efectos laborales del COVID-19,” 2020. [Online]. Available: https://www.mondaq.com/employment-and-workforce-wellbeing/922928/medidas-para-atenuar-los-efectos-laborales-del-covid-19.
