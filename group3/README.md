@@ -33,13 +33,13 @@ Order Food
 	- HTML5 + JS + CSS3 + BOOTSTRAP 4 + (API Offline, workers, indexDB) 
 	
 	###Back - end
-<<<<<<< HEAD
-	- NodeJs + MongoDB
-=======
-	- PHP + MongoDB
->>>>>>> d3ab34570d5f784d37eafc995b0d945d9fe4bb28
 
-	![Origenes de la Industria 4.0](Demo/Solución.jpg)
+	- NodeJs + MongoDB
+
+	- PHP + MongoDB
+
+
+![Origenes de la Industria 4.0](Demo/Solución.jpg)
 	
 
 ## Proof of concept (DEMO)
