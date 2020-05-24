@@ -2,7 +2,7 @@
 
 ## Portal Web para Control de Infección Covid 19 ##
 
-El propósito de este portal es dar una herramienta al departamento médico de la empresa para que cuando detecte una persona que sea Covid 19 positivo pueda ubicar las personas con las que tuvo contacto en un periodo de tiempo y así puedan ejecutar medidas preventivas para evitar que se puedan contagiar más personas.
+El propósito de este portal es dar una herramienta al departamento médico de la empresa para que cuando detecte una persona que sea Covid 19 positivo pueda ubicar las personas con las que tuvo contacto en un periodo de tiempo y así puedan ejecutar medidas preventivas y evitar que se generen nuevos contagios.
 
 [Link to the presentation] 
 
