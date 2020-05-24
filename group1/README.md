@@ -73,6 +73,3 @@ La app realizara recomendaciones de acuerdo con la hora y el estado de �nimo p
 
 
 ## References
-
-[Optional]
-contribucion ks prueba
