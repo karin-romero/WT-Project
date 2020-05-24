@@ -28,25 +28,9 @@ publicados en varios portales conocidos a nivel nacional,  ordenados por fechas,
 
 ## Proposal
 
-![image](https://user-images.githubusercontent.com/65081413/82743056-3cf40100-9d2b-11ea-8dcd-e267f3deb913.png)
 ![image](https://user-images.githubusercontent.com/65081413/82743070-690f8200-9d2b-11ea-9a2f-8b0f55d021a7.png)
 
-
-#### DJango
-
-#### SQlite
-
-#### Heroku
-Heroku es una plataforma como servicio de computación en la Nube que se especializa en ofrecer servicios de plataforma administrada, en donde se pueden alojar aplicaciones desarrolladas en diferentes lenguajes de programación como Java, Node.js, Scala, Clojure y Python y (no documentado) PHP. Su base del sistema operativo es Debian o, en la nueva plataforma, el sistema basado en Debian Ubuntu.
-Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, estos son utilizados para albergar las aplicaciones web, webservices o aplicaciones que se ejecutan del lado del servidor, así mismo cuenta con la posibilidad de instalar add-ons para agregar funcionalidades a dichos contenedores, por ejemplo, se pueden agregar servicios administrados de base de datos, almacenamiento en la nube o mensajería(MQ).
-
-**Características Principales** 
-*	Elasticidad y crecimiento. Se puede cambiar en cualquier momento la cantidad de Dynos asignados a una aplicación a través de la línea de comandos o el dashboard.
-*	Tamaño. Heroku ofrece diferentes tipos de dynos, cada uno con diferentes capacidades de procesamiento y memoria.
-*	Seguimiento. Existe un manejador de Dynos, el cual continuamente monitorea los dynos que están en ejecución, en caso de que uno falle es eliminado y creado nuevamente.
-*	Distribución y redundancia. Los Dynos se encuentran aislados uno de otro. Esto implica que de existir fallos en la infraestructura interna de alguno de ellos, los otros dynos no se ven afectados, y consecuentemente tampoco la aplicación.
-
-#### HTML 5
+![image](https://user-images.githubusercontent.com/65081413/82743056-3cf40100-9d2b-11ea-8dcd-e267f3deb913.png)
 
 #### Tecnica WEB Scraping
 Web scraping, también conocido como extracción de datos web, es una técnica para la extracción dirigida y automatizada de información de sitios web, además puede ayudar a archivar datos y rastrear cambios en línea. El raspado web utiliza la automatización inteligente para recuperar cientos y millones de puntos de datos de la Internet, así mismo permite adquirir datos no tabulares o mal estructurados de sitios web y convertirlos a un formato estructurado y utilizable, como un archivo .csv u hoja de cálculo.
@@ -58,6 +42,21 @@ Es una inteligencia artificial que navega por Internet para indexar y buscar con
 
 **El raspador:**
 Es una herramienta especializada diseñada para extraer datos de forma precisa y rápida de una página web. Los raspadores web varían ampliamente en diseño y complejidad, dependiendo del proyecto.
+
+
+#### DJango
+Django  es un framework de aplicaciones web gratuito y de código abierto (open source) escrito en Python. 
+
+#### Heroku
+Heroku es una plataforma como servicio de computación en la Nube que se especializa en ofrecer servicios de plataforma administrada, en donde se pueden alojar aplicaciones desarrolladas en diferentes lenguajes de programación como Java, Node.js, Scala, Clojure y Python y (no documentado) PHP. Su base del sistema operativo es Debian o, en la nueva plataforma, el sistema basado en Debian Ubuntu.
+Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, estos son utilizados para albergar las aplicaciones web, webservices o aplicaciones que se ejecutan del lado del servidor, así mismo cuenta con la posibilidad de instalar add-ons para agregar funcionalidades a dichos contenedores, por ejemplo, se pueden agregar servicios administrados de base de datos, almacenamiento en la nube o mensajería(MQ).
+
+**Características Principales** 
+*	Elasticidad y crecimiento. Se puede cambiar en cualquier momento la cantidad de Dynos asignados a una aplicación a través de la línea de comandos o el dashboard.
+*	Tamaño. Heroku ofrece diferentes tipos de dynos, cada uno con diferentes capacidades de procesamiento y memoria.
+*	Seguimiento. Existe un manejador de Dynos, el cual continuamente monitorea los dynos que están en ejecución, en caso de que uno falle es eliminado y creado nuevamente.
+*	Distribución y redundancia. Los Dynos se encuentran aislados uno de otro. Esto implica que de existir fallos en la infraestructura interna de alguno de ellos, los otros dynos no se ven afectados, y consecuentemente tampoco la aplicación.
+
 
 
 [you can add any subseccion]
