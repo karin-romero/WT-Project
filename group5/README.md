@@ -47,11 +47,17 @@ Es una herramienta especializada diseñada para extraer datos de forma precisa y
 
 
 ### 2. DJango
-Django  es un framework de aplicaciones web gratuito y de código abierto (open source) escrito en Python. 
+Django es un framework web diseñado para realizar aplicaciones de cualquier complejidad en unos tiempos muy razonables. Está escrito en Python y tiene una comunidad muy amplia, que está en continuo crecimiento.
+
+**Beneficios de DJangi**
+* Rápido
+* Seguro
+* Escalable
+* Versátil
+* ORM, cuenta con una interfaz para acceso a la base de datos ademas de contar con un panel de administración.
 
 ### 3. Heroku
-Heroku es una plataforma como servicio de computación en la Nube que se especializa en ofrecer servicios de plataforma administrada, en donde se pueden alojar aplicaciones desarrolladas en diferentes lenguajes de programación como Java, Node.js, Scala, Clojure y Python y (no documentado) PHP. Su base del sistema operativo es Debian o, en la nueva plataforma, el sistema basado en Debian Ubuntu.
-Heroku maneja contenedores Linux (Ubuntu) los cuales son llamados “dynos”, estos son utilizados para albergar las aplicaciones web, webservices o aplicaciones que se ejecutan del lado del servidor, así mismo cuenta con la posibilidad de instalar add-ons para agregar funcionalidades a dichos contenedores, por ejemplo, se pueden agregar servicios administrados de base de datos, almacenamiento en la nube o mensajería(MQ).
+Heroku es una plataforma como servicio de computación en la Nube que se especializa en ofrecer servicios de plataforma administrada, en donde se pueden alojar aplicaciones desarrolladas en diferentes lenguajes de programación como Java, Node.js, Scala, Clojure y Python y (no documentado) PHP. 
 
 **Características Principales** 
 *	Elasticidad y crecimiento. Se puede cambiar en cualquier momento la cantidad de Dynos asignados a una aplicación a través de la línea de comandos o el dashboard.
@@ -70,6 +76,14 @@ Power BI es la herramienta de business intelligence o inteligencia de negocio de
 
 * Power BI permite hacer múltiples análisis complejos en un solo panel, con una visualización única muy atractiva.
 
+### Bootstrap
+Bootstrap permite crear interfaces web con CSS y Javascript que se adaptan en función del tamaño de la pantalla del dispositivo desde el que estamos navegando.
+
+**Características Principales** 
+* Es fácil de utilizar, se trata de una herramienta muy sencilla de utilizar, es muy intuitivo.
+* Responsive Design, provee de todas las reglas CSS para que el sitio web se adapte de manera dinámica a la mayoría de las pantallas.
+* Implementaciones externas, cuenta con múltiples implementaciones externas: WordPress, Drupal, SASS o jQuery UI.
+* Comunidad Web, hace uso de componentes y servicios que han sido creados por la comunidad web. Como, por ejemplo: HTML5 shim, Normalize.css, OOCSS, jQuery UI, LESS o GitHub.
 
 ## Proof of concept (DEMO)
 
