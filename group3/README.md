@@ -33,7 +33,7 @@ Fast Orders
 	- HTML5 + JS + CSS3 + BOOTSTRAP 4 + (API Offline, workers, indexDB) 
 	
 	###Back - end
-	- PHP + MariaDB
+	- NodeJs + MongoDB
 
 	![Origenes de la Industria 4.0](Demo/Solución.jpg)
 	
