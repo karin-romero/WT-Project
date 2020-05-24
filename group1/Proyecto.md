@@ -1,4 +1,5 @@
 #PROYECTO
+
 **Título:**
                 __ASISTENTE PARA RECOMENDAR ACTIVIDADES__
 
@@ -21,4 +22,4 @@ La app realizara recomendaciones de acuerdo con la hora y el estado de ánimo pu
 
 A continuación un esquema de la arquitectura propuesta de solución porpuesta
 
-![](/imagenes/arquitectura.jpg)
+![](imagenes/arquitectura.jpg)
