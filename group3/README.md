@@ -65,6 +65,8 @@ Order Food
 ![Origenes de la Industria 4.0](Demo/img-6.png)
 6: Se visualiza un mensaje indicando al usuario que su orden esta lista y que por favor se acerque a retirar la misma.
 
+![Origenes de la Industria 4.0](Demo/img-7.png)
+7: Aqui esta la parte de cache donde se muestra todos los achivos que se estan almacenando en mi dispositivo.
 
 ## References
 
