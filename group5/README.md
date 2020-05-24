@@ -28,6 +28,9 @@ publicados en varios portales conocidos a nivel nacional,  ordenados por fechas,
 
 ## Proposal
 
+
+En el siguiente grafico se describe la aplicacion de la tecnica web scraping para obtener las ofertas de trabajos publicados en diferentes sitios web, para lo cual intervienen las siguientes componentes:
+
 ![image](https://user-images.githubusercontent.com/65081413/82743070-690f8200-9d2b-11ea-9a2f-8b0f55d021a7.png)
 
 
