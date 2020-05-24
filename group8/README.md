@@ -36,7 +36,7 @@ Nombre del Usuario, Correo, extension y fecha de registro, con esta informacion 
 ## Proof of concept (DEMO)
 
 1. Portal Web donde se va ingresar el nombre del empleado en este caso que se encuentra contagiado, para asi verificar con cuantas personas estuvo en contacto
-Ingresara el nombre, apellido, fecha de inicio y fin; es decir en el tiempo en que estuvo en contacto con personal del area.
+Ingresara el nombre, apellido, fecha de inicio y fin; es decir un periodo de catorce días considerando (ese tiempo será definido por la empresa pero para efectos de la demostración se considero ese periodo).
 
 ![Captura](https://user-images.githubusercontent.com/65081905/82746431-2cf11700-9d55-11ea-8b67-4b93efc86c97.JPG)
 
