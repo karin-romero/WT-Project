@@ -36,8 +36,6 @@ Mediante esta aplicación web podemos ordenar desde la mesa de un patio de comid
 
 	- NodeJs + MongoDB
 
-	- NodeJs + MongoDB
-
 
 ![Origenes de la Industria 4.0](Demo/Solución.jpg)
 	
