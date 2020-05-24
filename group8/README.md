@@ -18,7 +18,7 @@ El propósito de este portal es dar una herramienta al departamento médico de l
 
 ## Problem statement
 
-[add here the problem definition... you can include images to illustrate]
+Departamento Medico de prestigiosa Institucion Financiera busca llevar un control por medio de un portal Web en el cual podran llevar un registro de todos los colaboradores para con esto disminuir los posibles contagios por Covid 19 a traves de buenas practicas de bioseguridad que permitan la reinsercion laboral para con esto mitigar las perdidas economicas en las que muchas empresas se han visto afectadas
 
 
 ## Proposal
