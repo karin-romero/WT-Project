@@ -84,5 +84,12 @@ Ventajas
 [Seguridad en voto electronico] ( https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
 [Sistema_de_votacion_electronica_basado_en_criptografia] ( https://rua.ua.es/dspace/bitstream/10045/94728/1/Sistema_de_votacion_electronica_basado_en_criptogr_Fajardo_Juan_Antonio_Jose.pdf
 
+
+
+- Conexión Offline SERVER WORKER
+[Conexión con Server Worker] ( https://web.mat.upc.edu/jorge.villar/esamcid/rep/evot/reportevotingse2.html
+[Conexión con Server Worker] ( https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa?hl=es
+
+
 - Cargar archivo JSON a PowerBI
 [Exportar indexDB] ( https://www.npmjs.com/package/indexeddb-export-import
