@@ -2,7 +2,7 @@
 
 Order Food
 
-[Project Brief]
+Mediante esta aplicación web podemos ordenar desde la mesa de un patio de comidas evitando aglomeración en los locales, mediante el escaneo de un código QR en la mesa el cual nos redirige al sitio web, podemos escoger entre los diferentes tipo de menú y posteriormente realizar el pago.
 
 [Link to the presentation]
 
@@ -36,7 +36,7 @@ Order Food
 
 	- NodeJs + MongoDB
 
-	- PHP + MongoDB
+	- NodeJs + MongoDB
 
 
 ![Origenes de la Industria 4.0](Demo/Solución.jpg)
