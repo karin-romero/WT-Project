@@ -44,7 +44,7 @@ Fast Orders
 Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra
 
 ![Origenes de la Industria 4.0](Demo/img-2.png)
-Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra
+2: Luego se escogen los combos o productos, los cuales se van agregando al carrito de compras, y posteriormente se procede a procesar el pago.
 
 ![Origenes de la Industria 4.0](Demo/img-3.png)
 Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra
