@@ -67,7 +67,7 @@ Heroku es una plataforma como servicio de computación en la Nube que se especia
 
 ![image](https://user-images.githubusercontent.com/65081413/82743222-0370c500-9d2e-11ea-83df-8bca4edec463.png)
 
-Del lado de cliente por medio de su navegador se accedera al sitio web el cual contrara con un buscador y presentara un dashboard para la visualizacion de las ofertas de trabajos obtenidas con la tecnica del web scraping. 
+Del lado de cliente por medio de su navegador se podra acceder al sitio web en el cual se contara con un buscador para facilitar el mejor resultado además de visualizar un dashboard con datos relevantes de las ofertas de trabajos obtenidas por medio de la tecnica del Web Scraping. 
 
 ### Power Bi
 Power BI es la herramienta de business intelligence o inteligencia de negocio de Microsoft. Proporciona un análisis en profundidad y tiempo real de los datos de negocio, convirtiéndolos en información de valor que ayuda a tomar las mejores decisiones empresariales.
